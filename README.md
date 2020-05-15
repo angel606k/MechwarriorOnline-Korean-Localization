@@ -15,17 +15,23 @@
 2. 맥워리어 온라인이 설치된 디렉터리 (일반적으로 `C:\Program Files (x86)\Steam\steamapps\common\MechWarrior Online`)로 이동합니다.
 3. 현재 디렉터리에 `MWO-kor_Test_<버전>.zip` 파일의 압축 내용을 풀어 덮어 씌웁니다.
 
+## 번역/검수 및 테스트에 참가하고 싶어요
+디시인사이드 배틀테크-맥워리어 마이너 갤러리를 참고하셔서 참여하세요!<br>
+새로운 직원은 언제나 환영입니다!<br>
+
+[![맥워리어 갤러리](./screenshots/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/lists?id=mwo)
+
+## 패치 후 로그인중 게임이 튕겨요!
+
+1. 스팀 내게임 목록에 있는 맥워리어 온라인을 오른클릭하여 속성을 클릭.
+2. 로컬파일 탭으로 가서 `게임 파일 무결성 확인...`을 클릭하여 최신버전으로 갱신합니다.
+3. 한글 패치를 다시 진행합니다.
+
 ## 한글이 거슬려요. 원상복구 하고싶어요!
 
 1. 맥워리어 온라인이 설치된 디렉터리 (일반적으로 `C:\Program Files (x86)\Steam\steamapps\common\MechWarrior Online`)로 이동합니다.
 2. system.cfg 파일을 메모장으로 연 뒤 내용을 전부 삭제 후 저장해주세요.
 3. `\Game\Localized` 폴더 내 `Korean.pak` 파일을 삭제해주세요.
-
-## 번역/검수 및 테스트에 참가하고 싶어요
-디시인사이드 배틀테크-맥워리어 마이너 갤러리를 참고하셔서 참여하세요!<br>
-새로운 직원은 언제나 환영입니다!
-
-[![맥워리어 갤러리](./screenshots/dcgall.jpg)]https://gall.dcinside.com/mgallery/board/lists?id=mwo
 
 ## 스크린샷
 ![한글패치 적용 스크린샷 1](./screenshots/1.jpg)
