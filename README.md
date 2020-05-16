@@ -10,16 +10,17 @@
 
 ## 테스트 패치 다운로드 및 적용방법
 
-~1. 아래 링크로 이동하여 테스트 패치 파일을 다운로드 합니다.~
-1. 디시인사이드 배틀테크-맥워리어 마이너 갤러리를 참고하여 디스코드에 참여하여 테스트 패치 파일을 다운로드 합니다.
+1. 아래 링크로 이동하여 테스트 패치 파일을 다운로드 합니다.
 2. 맥워리어 온라인이 설치된 디렉터리 (일반적으로 `C:\Program Files (x86)\Steam\steamapps\common\MechWarrior Online`)로 이동합니다.
 3. 현재 디렉터리에 `MWO-kor_Test_<버전>.zip` 파일의 압축 내용을 풀어 덮어 씌웁니다.
+
+[![패치 다운로드](./screenshots/download.jpg)](https://drive.google.com/drive/folders/1hhbO5I1WAQqMA3TCQ2tw9l925lu7T4Fu?usp=sharing)
 
 ## 번역/검수 및 테스트에 참가하고 싶어요!
 디시인사이드 배틀테크-맥워리어 마이너 갤러리를 참고하셔서 참여하세요!<br>
 새로운 직원은 언제나 환영입니다!<br>
 
-[![맥워리어 갤러리](./screenshots/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/lists?id=mwo)
+[![맥워리어 갤러리](./screenshots/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/view/?id=mwo&no=1595&page=1&_rk=urT)
 
 ## 패치 후 로그인중 게임이 튕겨요!
 
