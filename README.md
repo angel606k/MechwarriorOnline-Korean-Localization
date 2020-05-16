@@ -23,7 +23,7 @@
 
 [![맥워리어 갤러리](./screenshots/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/view/?id=mwo&no=1595&page=1&_rk=urT)
 
-## 3. 패치 후 로그인중 게임이 튕겨요!
+## 3. 패치 후 로그인 중 게임이 튕겨요!
 
 1. 스팀 내게임 목록에 있는 맥워리어 온라인을 오른클릭하여 속성을 클릭.
 2. 로컬파일 탭으로 가서 `게임 파일 무결성 확인...`을 클릭하여 최신버전으로 갱신합니다.
