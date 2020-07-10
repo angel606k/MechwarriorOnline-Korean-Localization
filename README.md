@@ -21,7 +21,7 @@
 ・비공식 한글 패치인만큼 여러분들의 도움이 절실합니다!<br>
 ### 「패치 파일은 매주 토요일에 최신 번역 파일로 갱신됩니다.」
 
-[![맥워리어 갤러리](./screenshots/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/view/?id=mwo&no=1595&page=1&_rk=urT)
+[![멕워리어 온라인 번역](./screenshots/dcgall.jpg)](https://docs.google.com/spreadsheets/d/1rPfwmo1uU8xgXzuA0gGQHww09o5IQIEXY6gGiuCpC40/edit#gid=145009810)
 
 ## 3. 패치 후 로그인 중 게임이 튕겨요!
 
