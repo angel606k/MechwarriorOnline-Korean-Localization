@@ -1,6 +1,6 @@
 # 맥워리어 온라인 Steam PC 비공식 한글 패치
 [![GitHub](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/TariTomo/MechwarriorOnline-Korean-Localization/blob/master/LICENSE)
-
+[Steam - Tari_Tomo](https://steamcommunity.com/id/Tari_Tomo/)
 ![맥워리어 온라인 비공식 한글패치](./screenshots/patch_full_size.jpg)
 
 [맥워리어 온라인(Steam, PC)](https://store.steampowered.com/app/342200/MechWarrior_Online_Solaris_7/)의 비공식 한글 패치입니다.<br>
