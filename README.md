@@ -12,7 +12,7 @@
 
 1. 아래 링크로 이동하여 테스트 패치 파일을 다운로드 합니다.
 2. 맥워리어 온라인이 설치된 디렉터리 (일반적으로 `C:\Program Files (x86)\Steam\steamapps\common\MechWarrior Online`)로 이동합니다.
-3. 현재 디렉터리에 `MWO-kor_Test_<버전>.zip` 파일의 압축 내용을 풀어 덮어 씌웁니다.
+3. 현재 디렉터리에 `MWO-kor_Test_<버전>.zip` 파일의 압축 내용을 풀어 덮어 씌웁니다. (최신버전: 0.9.4)
 
 [멕워리어 온라인 비공식 한글패치 다운로드](https://drive.google.com/drive/folders/1hhbO5I1WAQqMA3TCQ2tw9l925lu7T4Fu?usp=sharing)
 
