@@ -1,13 +1,18 @@
-# 맥워리어 온라인 Steam PC 비공식 한글 패치
+# 맥워리어 온라인 Steam PC 공식 한글 패치
 [![GitHub](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/TariTomo/MechwarriorOnline-Korean-Localization/blob/master/LICENSE)
 [Steam - Tari_Tomo](https://steamcommunity.com/id/Tari_Tomo/)
 ![맥워리어 온라인 비공식 한글패치](./screenshots/patch_full_size.jpg)
 
 [맥워리어 온라인(Steam, PC)](https://store.steampowered.com/app/342200/MechWarrior_Online_Solaris_7/)의 비공식 한글 패치입니다.<br>
 
-#### 어디까지나 비공식 한글패치이므로 사용시 불이익은 책임지지 않습니다.<br>
-#### 다만 타 국가 유저들도 자체적으로 현지어로 번역하여 게임을 즐기고 있다는 정보를 알려드립니다. 판단은 개인의 몫입니다.<br>
+~~#### 어디까지나 비공식 한글패치이므로 사용시 불이익은 책임지지 않습니다.<br>
+#### 다만 타 국가 유저들도 자체적으로 현지어로 번역하여 게임을 즐기고 있다는 정보를 알려드립니다. 판단은 개인의 몫입니다.<br>~~
+
+#### 피라냐 게임즈로부터 공식화 허가를 받게되었습니다!
+#### 모든 한글화 참여멤버에게 감사의 인사를 드리며, 컨택에 도움을 주신 「배틀테크-맥워리어 갤러리」갤주님에게 감사의 말씀 드립니다!
+
 ### 현재 공개 테스트 및 공개 번역/검수로 전환하였습니다.
+
 ## 1. 테스트 패치 다운로드 및 적용방법
 
 1. 아래 링크로 이동하여 테스트 패치 파일을 다운로드 합니다.
