@@ -3,8 +3,11 @@
 [Steam - Tari_Tomo](https://steamcommunity.com/id/Tari_Tomo/)
 ![맥워리어 온라인 비공식 한글패치](./screenshots/patch_full_size.jpg)
 
-[![디시인사이드 배틀테크-맥워리어 갤러리](./screenshots/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/lists?id=mwo)<br>
-[![멕워리어 온라인 네이버 카페](./screenshots/navercafe.PNG)](https://cafe.naver.com/mechon)
+| 디시인사이드 배틀테크-맥워리어 갤러리 | 멕워리어 온라인 네이버 카페 |
+|:-------------:|:-------------:|
+| [![디시인사이드 배틀테크-맥워리어 갤러리](./screenshots/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/lists?id=mwo) | [![멕워리어 온라인 네이버 카페](./screenshots/navercafe.PNG)](https://cafe.naver.com/mechon) |
+
+<br><br>
 
 [맥워리어 온라인(Steam, PC)](https://store.steampowered.com/app/342200/MechWarrior_Online_Solaris_7/)의 비공식 한글 패치입니다.<br>
 
