@@ -17,12 +17,12 @@
 
 ## 1. 테스트 패치 다운로드 및 적용방법
 
-~~1. 아래 링크로 이동하여 테스트 패치 파일을 다운로드 합니다.~~
+<!-- 1. 아래 링크로 이동하여 테스트 패치 파일을 다운로드 합니다. -->
 1. Git의 [Build 폴더](https://github.com/angel606k/MechwarriorOnline-Korean-Localization/tree/master/Build)에 있는 최신버전의 한글패치를 다운로드 합니다.
 2. 맥워리어 온라인이 설치된 디렉터리 (일반적으로 `C:\Program Files (x86)\Steam\steamapps\common\MechWarrior Online`)로 이동합니다.
 3. 현재 디렉터리에 `MWO-kor_Test_<버전>.zip` 파일의 압축 내용을 풀어 덮어 씌웁니다. (최신버전: 0.9.5)
 
-~~[멕워리어 온라인 비공식 한글패치 다운로드](https://drive.google.com/drive/folders/1hhbO5I1WAQqMA3TCQ2tw9l925lu7T4Fu?usp=sharing)~~
+<!-- [멕워리어 온라인 비공식 한글패치 다운로드](https://drive.google.com/drive/folders/1hhbO5I1WAQqMA3TCQ2tw9l925lu7T4Fu?usp=sharing) -->
 
 ## 2. 번역/검수 및 피드백은 어디에서 할 수 있나요?
 ・디시인사이드 배틀테크-맥워리어 마이너 갤러리를 참고하셔서 번역/검수에 참여하거나 피드백을 남겨주세요!<br>
