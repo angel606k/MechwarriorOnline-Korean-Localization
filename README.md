@@ -1,4 +1,4 @@
-# 맥워리어 온라인 Steam PC 공식 한글 패치
+# 맥워리어 온라인 Steam PC 비공식 한글 패치
 [![GitHub](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/TariTomo/MechwarriorOnline-Korean-Localization/blob/master/LICENSE)
 [Steam - Tari_Tomo](https://steamcommunity.com/id/Tari_Tomo/)
 ![맥워리어 온라인 공식 한글패치](./screenshots/patch_full_size.jpg)
