@@ -15,7 +15,7 @@
 
 <br>
 
-[맥워리어 온라인(Steam, PC)](https://store.steampowered.com/app/342200/MechWarrior_Online_Solaris_7/)의 비공식 한글 패치입니다.<br>
+[맥워리어 온라인(Steam, PC)](https://store.steampowered.com/app/342200/MechWarrior_Online_Solaris_7/)의 공식 한글 패치입니다.<br>
 
 <!-- #### 어디까지나 비공식 한글패치이므로 사용시 불이익은 책임지지 않습니다.<br>
 #### 다만 타 국가 유저들도 자체적으로 현지어로 번역하여 게임을 즐기고 있다는 정보를 알려드립니다. 판단은 개인의 몫입니다.<br> -->
