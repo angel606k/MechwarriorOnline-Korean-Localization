@@ -6,12 +6,12 @@
 ### 멕워리어 온라인 한국 커뮤니티
 | 디시인사이드 배틀테크-맥워리어 갤러리 | 멕워리어 온라인 네이버 카페 |
 |:-------------:|:-------------:|
-| <a href="https://gall.dcinside.com/mgallery/board/lists?id=mwo" target="_blank"><img src="./screenshots/dcgall.jpg"></a> | <a href="https://cafe.naver.com/mechon" target="_blank"><img src="./screenshots/navercafe.PNG"></a> |
+| [![디시인사이드 배틀테크-맥워리어 갤러리](./screenshots/dcgall.jpg)](https://gall.dcinside.com/mgallery/board/lists?id=mwo) | [![멕워리어 온라인 네이버 카페](./screenshots/navercafe.PNG)](https://cafe.naver.com/mechon) |
 
 ### 멕워리어 온라인 한국인 스트리머
 | 나미노예_우혜인 |
 |:-------------:|
-| <a href="https://www.twitch.tv/slaimuuu" target="_blank"><img src = "./screenshots/kor_mwo_streamer_1.png" width="50%"></a> |
+| <a href="https://www.twitch.tv/slaimuuu"><img src = "./screenshots/kor_mwo_streamer_1.png" width="50%"></a> |
 
 <br>
 
@@ -27,9 +27,7 @@
 
 #### Git 처리를 하였습니다. 이제 모든 수정사항은 Git 에서 [확인](./version_history.md) 이 가능합니다.
 
-### <a href="https://docs.google.com/spreadsheets/d/1RD3esK3-avSUXc6iZUlXWHvV5VNbbtNsFOKaQUcQOWg/edit#gid=145009810" target="_blank">멕워리어 온라인 한글패치 스프레드시트</a>
-
-<!-- ### [멕워리어 온라인 한글패치 스프레드시트](https://docs.google.com/spreadsheets/d/1RD3esK3-avSUXc6iZUlXWHvV5VNbbtNsFOKaQUcQOWg/edit#gid=145009810) -->
+### [멕워리어 온라인 한글패치 스프레드시트](https://docs.google.com/spreadsheets/d/1RD3esK3-avSUXc6iZUlXWHvV5VNbbtNsFOKaQUcQOWg/edit#gid=145009810)
 
 ## 1. 테스트 패치 다운로드 및 적용방법
 
