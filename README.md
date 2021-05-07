@@ -25,7 +25,7 @@
 
 ### 현재 공개 테스트 및 공개 번역/검수로 전환하였습니다.
 
-#### Git 처리를 하였습니다. 이제 모든 수정사항은 Git 에서 [확인](https://github.com/angel606k/MechwarriorOnline-Korean-Localization/blob/master/Build/changelog_Test_Ver.txt) 이 가능합니다.
+#### Git 처리를 하였습니다. 이제 모든 수정사항은 Git 에서 [확인](./version_history.md) 이 가능합니다.
 
 ### [멕워리어 온라인 한글패치 스프레드시트](https://docs.google.com/spreadsheets/d/1RD3esK3-avSUXc6iZUlXWHvV5VNbbtNsFOKaQUcQOWg/edit#gid=145009810)
 
