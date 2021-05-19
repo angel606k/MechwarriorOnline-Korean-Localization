@@ -1,10 +1,15 @@
-테스트 버전 20210510
-1. 번역/검수 파일 : 2021년 5월 10일 오전 01시 00분 기준
-■ 무기 및 탄약 명칭 통일화
+테스트 버전 20210519
+■ 번역/검수 파일 : 2021년 5월 19일 오전 11시 40분 기준
+■ 게임패치 (1.4.241.0) 대응
+■ 설명문 수정
+　1. Light PPC 설명문구 수정
+　2. 공습, 포격 문구 수정
+■ 기타 미번역 부분 번역 (번역률: 93.18%)
+
 
 
 응원은 언제나 힘이 됩니다!
 
 한글패치: Tari_Tomo / 번역 및 테스트: DC인사이드 맥워리어 갤러리
 
-github: https://github.com/TariTomo/MechwarriorOnline-Korean-Localization/blob/master/README.md
+github: https://github.com/TariTomo/MechwarriorOnline-Korean-Localization
