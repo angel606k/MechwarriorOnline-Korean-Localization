@@ -11,7 +11,7 @@
 ### 멕워리어 온라인 한국인 스트리머
 | 나미노예_우혜인 |
 |:-------------:|
-| <a href="https://www.twitch.tv/slaimuuu"><img src = "./screenshots/kor_mwo_streamer_1.png" width="50%"></a> |
+| <a href="https://www.twitch.tv/rose0fsharoncassidy"><img src = "./screenshots/kor_mwo_streamer_1.png" width="50%"></a> |
 
 <br>
 
