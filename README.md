@@ -63,13 +63,16 @@
 3. `\Game\Localized` 폴더 내 `Korean.pak` 파일을 삭제해주세요.
 
 ## 스크린샷
-![한글패치 적용 스크린샷 1](./screenshots/1.png)
-![한글패치 적용 스크린샷 2](./screenshots/2.png)
-![한글패치 적용 스크린샷 3](./screenshots/3.png)
-![한글패치 적용 스크린샷 4](./screenshots/4.png)
-![한글패치 적용 스크린샷 5](./screenshots/5.png)
-![한글패치 적용 스크린샷 6](./screenshots/6.png)
-![한글패치 적용 스크린샷 7](./screenshots/7.png)
+![한글패치 적용 스크린샷 1](./screenshots/1.jpg)
+![한글패치 적용 스크린샷 2](./screenshots/2.jpg)
+![한글패치 적용 스크린샷 3](./screenshots/3.jpg)
+![한글패치 적용 스크린샷 4](./screenshots/4.jpg)
+![한글패치 적용 스크린샷 5](./screenshots/5.jpg)
+![한글패치 적용 스크린샷 6](./screenshots/6.jpg)
+![한글패치 적용 스크린샷 7](./screenshots/7.jpg)
+![한글패치 적용 스크린샷 8](./screenshots/8.jpg)
+![한글패치 적용 스크린샷 9](./screenshots/9.jpg)
+![한글패치 적용 스크린샷 10](./screenshots/10.jpg)
 
 ## License
 
