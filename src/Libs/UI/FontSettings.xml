@@ -1,0 +1,7 @@
+﻿<FontSettings>
+	<FontLib file="libs/UI/Common/gfxfontlib_glyphs.gfx"/>
+	<FontMaps>
+		<Map font="$GameFont" mappedFont="HelveticaNeue LT 67 MdCn" flags="0" />
+		<Map font="$GameFontBold" mappedFont="Eurostile LT" flags="0" />
+	</FontMaps>
+</FontSettings>

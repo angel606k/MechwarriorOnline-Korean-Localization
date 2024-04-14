@@ -1,0 +1,40 @@
+<GameModeDialogue>
+    <Dialogue name="GM_Match_Begins" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:match_begins" playOnce="1"/>
+	<Dialogue name="GM_Victory" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:victory" playOnce="1"/> 
+	<Dialogue name="GM_Defeat" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:defeat" playOnce="1"/>
+    <Dialogue name="GM_Advantages_None_Start" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_none_start"/>
+    <Dialogue name="GM_Advantages_1_Start_Ally" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_1_start_ally"/>
+    <Dialogue name="GM_Advantages_2_Start_Ally" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_2_start_ally"/>
+    <Dialogue name="GM_Advantages_3_Start_Ally" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_3_start_ally"/>
+    <Dialogue name="GM_Advantages_1_Start_Enemy" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_1_start_enemy"/>
+    <Dialogue name="GM_Advantages_2_Start_Enemy" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_2_start_enemy"/>
+    <Dialogue name="GM_Advantages_3_Start_Enemy" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_3_start_enemy"/>
+    <Dialogue name="GM_Advantages_1_Gained_Ally" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_1_gained_ally"/>
+    <Dialogue name="GM_Advantages_2_Gained_Ally" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_2_gained_ally"/>
+    <Dialogue name="GM_Advantages_3_Gained_Ally" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_3_gained_ally"/>
+    <Dialogue name="GM_Advantages_1_Lost_Ally" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_1_lost_ally"/>
+    <Dialogue name="GM_Advantages_2_Lost_Ally" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_2_lost_ally"/>
+    <Dialogue name="GM_Advantages_3_Lost_Ally" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_3_lost_ally"/>
+    <Dialogue name="GM_Advantages_1_Gained_Enemy" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_1_gained_enemy"/>
+    <Dialogue name="GM_Advantages_2_Gained_Enemy" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_2_gained_enemy"/>
+    <Dialogue name="GM_Advantages_3_Gained_Enemy" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_3_gained_enemy"/>
+    <Dialogue name="GM_Advantages_1_Lost_Enemy" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_1_lost_enemy"/>
+    <Dialogue name="GM_Advantages_2_Lost_Enemy" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_2_lost_enemy"/>
+    <Dialogue name="GM_Advantages_3_Lost_Enemy" fileName="Sounds/dialogue_english:advantages_clan_attacker:advantages_3_lost_enemy"/>
+	<Dialogue name="GM_Ally_Score_25" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:ally_points_25%" playOnce="1"/>
+	<Dialogue name="GM_Ally_Score_50" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:ally_points_50%" playOnce="1"/>
+	<Dialogue name="GM_Ally_Score_75" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:ally_points_75%" playOnce="1"/>
+	<Dialogue name="GM_Enemy_Score_25" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:enemy_points_25%" playOnce="1"/>
+	<Dialogue name="GM_Enemy_Score_50" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:enemy_points_50%" playOnce="1"/>
+	<Dialogue name="GM_Enemy_Score_75" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:enemy_points_75%" playOnce="1"/>	
+	<Dialogue name="GM_Ally_Gained_Epsilon" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:ally_gained_epsilon"/>
+	<Dialogue name="GM_Ally_Gained_Kappa" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:ally_gained_kappa"/>
+	<Dialogue name="GM_Ally_Gained_Gamma" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:ally_gained_gamma"/>
+	<Dialogue name="GM_Ally_Gained_Theta" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:ally_gained_theta"/>
+	<Dialogue name="GM_Ally_Gained_Sigma" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:ally_gained_sigma"/>
+	<Dialogue name="GM_Enemy_Gained_Epsilon" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:enemy_gained_epsilon"/>
+	<Dialogue name="GM_Enemy_Gained_Kappa" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:enemy_gained_kappa"/>
+	<Dialogue name="GM_Enemy_Gained_Gamma" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:enemy_gained_gamma"/>
+	<Dialogue name="GM_Enemy_Gained_Theta" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:enemy_gained_theta"/>
+	<Dialogue name="GM_Enemy_Gained_Sigma" fileName="Sounds/dialogue_english/conquest:conquest_clan_attacker:enemy_gained_sigma"/>		
+</GameModeDialogue>

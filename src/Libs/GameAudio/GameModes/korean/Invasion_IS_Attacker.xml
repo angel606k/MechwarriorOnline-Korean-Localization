@@ -1,0 +1,31 @@
+<GameModeDialogue>
+	    <Dialogue name="GM_Match_Begins" fileName="Sounds/dialogue_english/invasion:invasion_is_attacker:match_begins" playOnce="1"/>
+	<Dialogue name="GM_Victory" fileName="Sounds/dialogue_english/invasion:invasion_is_attacker:victory" playOnce="1"/> 
+	<Dialogue name="GM_Defeat" fileName="Sounds/dialogue_english/invasion:invasion_is_attacker:defeat" playOnce="1"/>
+    <Dialogue name="GM_Advantages_None_Start" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_none_start"/>
+    <Dialogue name="GM_Advantages_1_Start_Ally" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_1_start_ally"/>
+    <Dialogue name="GM_Advantages_2_Start_Ally" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_2_start_ally"/>
+    <Dialogue name="GM_Advantages_3_Start_Ally" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_3_start_ally"/>
+    <Dialogue name="GM_Advantages_1_Start_Enemy" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_1_start_enemy"/>
+    <Dialogue name="GM_Advantages_2_Start_Enemy" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_2_start_enemy"/>
+    <Dialogue name="GM_Advantages_3_Start_Enemy" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_3_start_enemy"/>
+    <Dialogue name="GM_Advantages_1_Gained_Ally" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_1_gained_ally"/>
+    <Dialogue name="GM_Advantages_2_Gained_Ally" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_2_gained_ally"/>
+    <Dialogue name="GM_Advantages_3_Gained_Ally" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_3_gained_ally"/>
+    <Dialogue name="GM_Advantages_1_Lost_Ally" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_1_lost_ally"/>
+    <Dialogue name="GM_Advantages_2_Lost_Ally" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_2_lost_ally"/>
+    <Dialogue name="GM_Advantages_3_Lost_Ally" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_3_lost_ally"/>
+    <Dialogue name="GM_Advantages_1_Gained_Enemy" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_1_gained_enemy"/>
+    <Dialogue name="GM_Advantages_2_Gained_Enemy" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_2_gained_enemy"/>
+    <Dialogue name="GM_Advantages_3_Gained_Enemy" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_3_gained_enemy"/>
+    <Dialogue name="GM_Advantages_1_Lost_Enemy" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_1_lost_enemy"/>
+    <Dialogue name="GM_Advantages_2_Lost_Enemy" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_2_lost_enemy"/>
+    <Dialogue name="GM_Advantages_3_Lost_Enemy" fileName="Sounds/dialogue_english:advantages_is_attacker:advantages_3_lost_enemy"/>
+    <Dialogue name="GM_Gate_Open_1" fileName="Sounds/dialogue_english/invasion:invasion_is_attacker:gm_gate_open_1" playOnce="1"/>
+    <Dialogue name="GM_Gate_Open_2" fileName="Sounds/dialogue_english/invasion:invasion_is_attacker:gm_gate_open_2" playOnce="1"/>
+    <Dialogue name="GM_Gate_Open_3" fileName="Sounds/dialogue_english/invasion:invasion_is_attacker:gm_gate_open_3" playOnce="1"/>
+    <Dialogue name="GM_Gate_Open_All" fileName="Sounds/dialogue_english/invasion:invasion_is_attacker:gm_gate_open_all" playOnce="1"/>
+    <Dialogue name="GM_Ogen_Destroyed_1" fileName="Sounds/dialogue_english/invasion:invasion_is_attacker:gm_ogen_destroyed_1" playOnce="1"/>
+    <Dialogue name="GM_Ogen_Destroyed_2" fileName="Sounds/dialogue_english/invasion:invasion_is_attacker:gm_ogen_destroyed_2" playOnce="1"/>
+    <Dialogue name="GM_Ogen_Destroyed_All" fileName="Sounds/dialogue_english/invasion:invasion_is_attacker:gm_ogen_destroyed_all" playOnce="1"/>
+</GameModeDialogue>

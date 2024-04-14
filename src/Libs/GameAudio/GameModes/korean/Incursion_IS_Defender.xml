@@ -1,0 +1,40 @@
+<GameModeDialogue>
+     <Dialogue name="GM_Match_Begins" fileName="Sounds/dialogue_english/incursion:incursion_is_command:match_begins" playOnce="1"/>
+	<Dialogue name="GM_Victory" fileName="Sounds/dialogue_english/incursion:incursion_is_command:win" playOnce="1"/> 
+	<Dialogue name="GM_Defeat" fileName="Sounds/dialogue_english/incursion:incursion_is_command:lose" playOnce="1"/>
+	<Dialogue name="GM_Victory_Team_Defeated" fileName="Sounds/dialogue_english/incursion:Placeholder.placeholder" playOnce="1"/> 
+	<Dialogue name="GM_Defeat_Team_Defeated" fileName="Sounds/dialogue_english/incursion:Placeholder.placeholder" playOnce="1"/>		
+	<Dialogue name="GM_Tie" fileName="Sounds/dialogue_english/incursion:Placeholder.placeholder" playOnce="1"/>	
+    <Dialogue name="GM_Advantages_None_Start" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_none_start"/>
+    <Dialogue name="GM_Advantages_1_Start_Ally" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_1_start_ally"/>
+    <Dialogue name="GM_Advantages_2_Start_Ally" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_2_start_ally"/>
+    <Dialogue name="GM_Advantages_3_Start_Ally" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_3_start_ally"/>
+    <Dialogue name="GM_Advantages_1_Start_Enemy" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_1_start_enemy"/>
+    <Dialogue name="GM_Advantages_2_Start_Enemy" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_2_start_enemy"/>
+    <Dialogue name="GM_Advantages_3_Start_Enemy" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_3_start_enemy"/>
+    <Dialogue name="GM_Advantages_1_Gained_Ally" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_1_gained_ally"/>
+    <Dialogue name="GM_Advantages_2_Gained_Ally" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_2_gained_ally"/>
+    <Dialogue name="GM_Advantages_3_Gained_Ally" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_3_gained_ally"/>
+    <Dialogue name="GM_Advantages_1_Lost_Ally" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_1_lost_ally"/>
+    <Dialogue name="GM_Advantages_2_Lost_Ally" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_2_lost_ally"/>
+    <Dialogue name="GM_Advantages_3_Lost_Ally" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_3_lost_ally"/>
+    <Dialogue name="GM_Advantages_1_Gained_Enemy" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_1_gained_enemy"/>
+    <Dialogue name="GM_Advantages_2_Gained_Enemy" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_2_gained_enemy"/>
+    <Dialogue name="GM_Advantages_3_Gained_Enemy" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_3_gained_enemy"/>
+    <Dialogue name="GM_Advantages_1_Lost_Enemy" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_1_lost_enemy"/>
+    <Dialogue name="GM_Advantages_2_Lost_Enemy" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_2_lost_enemy"/>
+    <Dialogue name="GM_Advantages_3_Lost_Enemy" fileName="Sounds/dialogue_english:advantages_is_defender:advantages_3_lost_enemy"/>
+    <Dialogue name="GM_Jamming_Tower_Destroyed_Ally" fileName="Sounds/dialogue_english/incursion:incursion_is_command:ecm_destroyed"/>
+    <Dialogue name="GM_Jamming_Tower_Destroyed_Enemy" fileName=""/>
+    <Dialogue name="GM_Radar_Tower_Destroyed_Ally" fileName="Sounds/dialogue_english/incursion:incursion_is_command:radar_destroyed"/>
+    <Dialogue name="GM_Radar_Tower_Destroyed_Enemy" fileName=""/>
+    <Dialogue name="GM_Air_Control_Tower_Destroyed_Ally" fileName="Sounds/dialogue_english/incursion:incursion_is_command:air_control_destroyed"/>
+    <Dialogue name="GM_Air_Control_Tower_Destroyed_Enemy" fileName=""/>
+    <Dialogue name="GM_Jamming_Tower_Online" fileName="Sounds/dialogue_english/incursion:incursion_is_command:ecm_online"/>
+    <Dialogue name="GM_Jamming_Tower_Offline" fileName="Sounds/dialogue_english/incursion:incursion_is_command:ecm_underpowered"/>
+    <Dialogue name="GM_Radar_Tower_Online" fileName="Sounds/dialogue_english/incursion:incursion_is_command:radar_sweep_online"/>
+    <Dialogue name="GM_Radar_Tower_Offline" fileName="Sounds/dialogue_english/incursion:incursion_is_command:radar_underpowered"/>
+    <Dialogue name="GM_Air_Control_Tower_Online" fileName="Sounds/dialogue_english/incursion:incursion_is_command:air_control_online"/>
+    <Dialogue name="GM_Air_Control_Tower_Offline" fileName="Sounds/dialogue_english/incursion:incursion_is_command:air_control_underpowered"/>		
+	<Dialogue name="GM_Base_Under_Attack" fileName="Sounds/dialogue_english/incursion:incursion_is_command:base_under_attack"/>	
+</GameModeDialogue>

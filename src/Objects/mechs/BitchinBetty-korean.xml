@@ -1,0 +1,202 @@
+<!-- English Language dialogue_english for Bitching Betty
+
+Notes:
+Priority : 1-10		1 being the highest priority
+
+Critical:	These numbers are just guildines... if you want more range in priority please talk to Brian Buckton
+	1-3
+
+Warnings:
+	4-7
+
+Information:
+	8-10
+
+Bitfield playback Flags:
+1 = LocalOnly		- Plays only on the local client
+2 = dialogue_english		- Sound is marked as dialogue_english	(Dialoge is automatically local only)
+**4 = Interupt		- Can interupt other voices		(dialogue_english marked sounds ONLY) >>>not implemented yet
+**8 = FullPlayback	- If this dialogue_english is interrupted, it will be replay till the whole line is spoken (dialogue_english marked sounds ONLY) >>>not implmemented yet
+16 = Allow While Dead - If the mech is dead, this sound will be allowed to play on it's corpse
+32 = Allow to play at end of round
+
+Just add numbers together to set the flags
+
+Attributes:
+timeout		- float		- If this dialogue_english is not played after X amount of time, it will drop itself from the queue. (if attribute is not specified, it's defaulted to 0.0 seconds, which means it will never be dropped from the queue)
+repeatdelay - float		- X Amount of time that needs to elapse before this dialogue_english will trigger again	(if attribute isn't specified, it's defaulted to 0.0 seconds, which means there is no delay)
+maxplayback - int		- The max amount a dialogue_english can be queued at a given time (if attribute is not specified, it's defaulted to 0, which means unlimted queueing)
+
+-->
+<BitchinBettyDialogue>
+	<SoundList>
+		<!-- Component Related dialogue_english-->
+		<Dialogue name="BB_Left_Torso_Critical" res="Sounds/dialogue_english:bitchin_betty:left_torso_critical" priority="3" playbackflags="7"/>
+		<Dialogue name="BB_Left_Torso_Destroyed" res="Sounds/dialogue_english:bitchin_betty:left_torso_destroyed" priority="2" playbackflags="15"/>
+		<Dialogue name="BB_Left_Leg_Critical" res="Sounds/dialogue_english:bitchin_betty:left_leg_critical" priority="3" playbackflags="7"/>
+		<Dialogue name="BB_Left_Leg_Destroyed" res="Sounds/dialogue_english:bitchin_betty:left_leg_destroyed" priority="2" playbackflags="15"/>
+		<Dialogue name="BB_Left_Arm_Critical" res="Sounds/dialogue_english:bitchin_betty:left_arm_critical" priority="3" playbackflags="7"/>
+		<Dialogue name="BB_Left_Arm_Destroyed" res="Sounds/dialogue_english:bitchin_betty:left_arm_destroyed" priority="3" playbackflags="7"/>
+		
+		<Dialogue name="BB_Right_Torso_Critical" res="Sounds/dialogue_english:bitchin_betty:right_torso_critical" priority="3" playbackflags="7"/>
+		<Dialogue name="BB_Right_Torso_Destroyed" res="Sounds/dialogue_english:bitchin_betty:right_torso_destroyed" priority="2" playbackflags="15"/>
+		<Dialogue name="BB_Right_Leg_Critical" res="Sounds/dialogue_english:bitchin_betty:right_leg_critical" priority="3" playbackflags="7"/>
+		<Dialogue name="BB_Right_Leg_Destroyed" res="Sounds/dialogue_english:bitchin_betty:right_leg_destroyed" priority="3" playbackflags="15"/>
+		<Dialogue name="BB_Right_Arm_Critical" res="Sounds/dialogue_english:bitchin_betty:right_arm_critical" priority="3" playbackflags="7"/>	
+		<Dialogue name="BB_Right_Arm_Destroyed" res="Sounds/dialogue_english:bitchin_betty:right_arm_destroyed" priority="3" playbackflags="7"/>	
+
+		<Dialogue name="BB_Center_Torso_Critical" res="Sounds/dialogue_english:bitchin_betty:center_torso_critical" priority="3" playbackflags="7"/>	
+		<Dialogue name="BB_Head_Critical" res="Sounds/dialogue_english:bitchin_betty:head_critical" priority="3" playbackflags="7"/>
+
+		<Dialogue name="BB_Targeting_Computer_Destroyed" res="Sounds/dialogue_english:bitchin_betty:targeting_computer_destroyed" priority="5" playbackflags="7"/>
+		<Dialogue name="BB_Command_Console_Destroyed" res="Sounds/dialogue_english:bitchin_betty:command_console_destroyed" priority="5" playbackflags="7"/>
+
+		<!-- WEAPONS -->
+		<!-- Ballistic Weapons -->
+			<!-- AutoCannon -->
+		<Dialogue name="BB_AutoCannon_Ammo_Empty" res="Sounds/dialogue_english:bitchin_betty:autocannon_ammo_0%" maxplayback="1" repeatdelay="10.0" priority="8" playbackflags="3"/>
+		<Dialogue name="BB_AutoCannon_Ammo_Low" res="Sounds/dialogue_english:bitchin_betty:autocannon_ammo_25%" maxplayback="1" repeatdelay="10.0" priority="9" playbackflags="3"/>
+		<Dialogue name="BB_AutoCannon_Ammo_Destroyed" res="Sounds/dialogue_english:bitchin_betty:autocannon_ammo_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="3"/>
+		<Dialogue name="BB_AutoCannon_Destroyed" res="Sounds/dialogue_english:bitchin_betty:autocannon_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+			<!-- Ultra AutoCannon -->
+		<Dialogue name="BB_UltraAutoCannon_Ammo_Empty" res="Sounds/dialogue_english:bitchin_betty:ultra_autocannon_0%" maxplayback="1" repeatdelay="10.0" priority="8" playbackflags="3"/>
+		<Dialogue name="BB_UltraAutoCannon_Ammo_Low" res="Sounds/dialogue_english:bitchin_betty:ultra_autocannon_25%" maxplayback="1" repeatdelay="10.0" priority="9" playbackflags="3"/>
+		<Dialogue name="BB_UltraAutoCannon_Ammo_Destroyed" res="Sounds/dialogue_english:bitchin_betty:ultra_autocannon_ammo_destroyed" maxplayback="1" repeatdelay="10.0" priority="3" playbackflags="7"/>
+		<Dialogue name="BB_UltraAutoCannon_Destroyed" res="Sounds/dialogue_english:bitchin_betty:ultra_autocannon_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>	
+			<!-- Gauss Rifle -->
+		<Dialogue name="BB_GaussRifle_Ammo_Empty" res="Sounds/dialogue_english:bitchin_betty:gauss_ammo_0%" maxplayback="1" repeatdelay="10.0" priority="8" playbackflags="3"/>
+		<Dialogue name="BB_GaussRifle_Ammo_Low" res="Sounds/dialogue_english:bitchin_betty:gauss_ammo_25%" maxplayback="1" repeatdelay="10.0" priority="9" playbackflags="3"/>
+		<Dialogue name="BB_GaussRifle_Ammo_Destroyed" res="Sounds/dialogue_english:bitchin_betty:gauss_ammo_destroyed" maxplayback="1" repeatdelay="10.0" priority="3" playbackflags="7"/>
+		<Dialogue name="BB_GaussRifle_Destroyed" res="Sounds/dialogue_english:bitchin_betty:gauss_destroyed" maxplayback="1" repeatdelay="10.0" priority="5" playbackflags="15"/>
+			<!-- LB10 -->
+		<Dialogue name="BB_LB10_Ammo_Empty" res="Sounds/dialogue_english:bitchin_betty:lb10_ammo_0%" maxplayback="1" repeatdelay="10.0" priority="8" playbackflags="3"/>
+		<Dialogue name="BB_LB10_Ammo_Low" res="Sounds/dialogue_english:bitchin_betty:lb10_ammo_25%" maxplayback="1" repeatdelay="10.0" priority="9" playbackflags="3"/>
+		<Dialogue name="BB_LB10_Ammo_Destroyed" res="Sounds/dialogue_english:bitchin_betty:lb10_ammo_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="7"/>
+		<Dialogue name="BB_LB10_Destroyed" res="Sounds/dialogue_english:bitchin_betty:lb10_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+			<!-- MachineGun -->
+		<Dialogue name="BB_MachineGun_Ammo_Empty" res="Sounds/dialogue_english:bitchin_betty:machinegun_ammo_0%" maxplayback="1" repeatdelay="10.0" priority="8" playbackflags="3"/>
+		<Dialogue name="BB_MachineGun_Ammo_Low" res="Sounds/dialogue_english:bitchin_betty:machinegun_ammo_25%" maxplayback="1" repeatdelay="10.0" priority="9" playbackflags="3"/>
+		<Dialogue name="BB_MachineGun_Ammo_Destroyed" res="Sounds/dialogue_english:bitchin_betty:machinegun_ammo_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="7"/>
+		<Dialogue name="BB_MachineGun_Destroyed" res="Sounds/dialogue_english:bitchin_betty:machinegun_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>	
+
+	        <!-- LBXAC -->
+		<Dialogue name="BB_LBXAC_Ammo_Empty" res="Sounds/dialogue_english:bitchin_betty:lbxac_ammo_0%" maxplayback="1" repeatdelay="10.0" priority="8" playbackflags="3"/>
+		<Dialogue name="BB_LBXAC_Ammo_Low" res="Sounds/dialogue_english:bitchin_betty:lbxac_ammo_25%" maxplayback="1" repeatdelay="10.0" priority="9" playbackflags="3"/>
+		<Dialogue name="BB_LBXAC_Ammo_Destroyed" res="Sounds/dialogue_english:bitchin_betty:lbxac_ammo_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="7"/>
+		<Dialogue name="BB_LBXAC_Destroyed" res="Sounds/dialogue_english:bitchin_betty:lbxac_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>		
+
+		<!-- Explosions -->
+		<Dialogue name="BB_AmmoExplosionDetected" res="Sounds/dialogue_english:bitchin_betty:ammo_explosion_detected" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		<Dialogue name="BB_WeaponExplosionDetected" res="Sounds/dialogue_english:bitchin_betty:weapon_explosion_detected" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		
+    
+		<!-- Missle Weapons -->
+			<!-- LRM -->
+		<Dialogue name="BB_LRM_Ammo_Empty" res="Sounds/dialogue_english:bitchin_betty:lrm_ammo_0%" maxplayback="1" repeatdelay="10.0" priority="8" playbackflags="3"/>
+		<Dialogue name="BB_LRM_Ammo_Low" res="Sounds/dialogue_english:bitchin_betty:lrm_ammo_25%" maxplayback="1" repeatdelay="10.0" priority="9" playbackflags="3"/>
+		<Dialogue name="BB_LRM_Ammo_Destroyed" res="Sounds/dialogue_english:bitchin_betty:lrm_Ammo_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="7"/>
+		<Dialogue name="BB_LRM_Destroyed" res="Sounds/dialogue_english:bitchin_betty:lrm_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+			<!-- SRM -->
+		<Dialogue name="BB_SRM_Ammo_Empty" res="Sounds/dialogue_english:bitchin_betty:srm_ammo_0%" maxplayback="1" repeatdelay="10.0" priority="8" playbackflags="3"/>
+		<Dialogue name="BB_SRM_Ammo_Low" res="Sounds/dialogue_english:bitchin_betty:srm_ammo_25%" maxplayback="1" repeatdelay="10.0" priority="9" playbackflags="3"/>
+		<Dialogue name="BB_SRM_Ammo_Destroyed" res="Sounds/dialogue_english:bitchin_betty:srm_ammo_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="7"/>
+		<Dialogue name="BB_SRM_Destroyed" res="Sounds/dialogue_english:bitchin_betty:srm_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		
+			<!-- MRM -->
+		<Dialogue name="BB_MRM_Ammo_Empty" res="Sounds/dialogue_english:bitchin_betty:mrm_ammo_0%" maxplayback="1" repeatdelay="10.0" priority="8" playbackflags="3"/>
+		<Dialogue name="BB_MRM_Ammo_Low" res="Sounds/dialogue_english:bitchin_betty:mrm_ammo_25%" maxplayback="1" repeatdelay="10.0" priority="9" playbackflags="3"/>
+		<Dialogue name="BB_MRM_Ammo_Destroyed" res="Sounds/dialogue_english:bitchin_betty:mrm_ammo_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="7"/>
+		<Dialogue name="BB_MRM_Destroyed" res="Sounds/dialogue_english:bitchin_betty:mrm_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		
+			<!-- Generic-->
+		<Dialogue name="BB_Ammo_Empty" res="Sounds/dialogue_english:bitchin_betty:generic_ammo_0%" maxplayback="1" repeatdelay="10.0" priority="8" playbackflags="3"/>
+		<Dialogue name="BB_Ammo_Low" res="Sounds/dialogue_english:bitchin_betty:generic_ammo_25%" maxplayback="1" repeatdelay="10.0" priority="9" playbackflags="3"/>
+		<Dialogue name="BB_Ammo_Destroyed" res="Sounds/dialogue_english:bitchin_betty:generic_ammo_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="7"/>
+		<Dialogue name="BB_WeaponDestroyed" res="Sounds/dialogue_english:bitchin_betty:weapon_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		
+		<!-- Energy Weapons -->
+			<!-- Small Lasers -->
+		<Dialogue name="BB_SmallLaser_Destroyed" res="Sounds/dialogue_english:bitchin_betty:small_laser_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		<Dialogue name="BB_SmallPulseLaser_Destroyed" res="Sounds/dialogue_english:bitchin_betty:small_pulse_laser_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+			<!-- Medium Lasers -->
+		<Dialogue name="BB_MediumLaser_Destroyed" res="Sounds/dialogue_english:bitchin_betty:medium_laser_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		<Dialogue name="BB_MediumPulseLaser_Destroyed" res="Sounds/dialogue_english:bitchin_betty:medium_pulse_laser_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+			<!-- Large Lasers -->
+		<Dialogue name="BB_LargeLaser_Destroyed" res="Sounds/dialogue_english:bitchin_betty:large_laser_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		<Dialogue name="BB_ERLargeLaser_Destroyed" res="Sounds/dialogue_english:bitchin_betty:erlarge_laser_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		<Dialogue name="BB_LargePulseLaser_Destroyed" res="Sounds/dialogue_english:bitchin_betty:large_pulse_laser_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		<Dialogue name="BB_PulseLaser_Destroyed" res="Sounds/dialogue_english:bitchin_betty:pulse_laser_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		<Dialogue name="BB_Laser_Destroyed" res="Sounds/dialogue_english:bitchin_betty:laser_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+			<!-- Large Lasers -->
+		<Dialogue name="BB_Flamer_Destroyed" res="Sounds/dialogue_english:bitchin_betty:flamer destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+			<!-- PPC -->
+		<Dialogue name="BB_PPC_Destroyed" res="Sounds/dialogue_english:bitchin_betty:ppc_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		<Dialogue name="BB_ERPPC_Destroyed" res="Sounds/dialogue_english:bitchin_betty:erppc_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		<!-- AMS -->
+		<Dialogue name="BB_AMS_Ammo_Empty" res="Sounds/dialogue_english:bitchin_betty:ams_ammo_0%" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="3"/>
+		<Dialogue name="BB_AMS_Ammo_Low" res="Sounds/dialogue_english:bitchin_betty:ams_ammo_25%" maxplayback="1" repeatdelay="10.0" priority="9" playbackflags="3"/>
+		<Dialogue name="BB_AMS_Ammo_Destroyed" res="Sounds/dialogue_english:bitchin_betty:ams_ammo_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="7"/>
+		<Dialogue name="BB_AMS_Destroyed" res="Sounds/dialogue_english:bitchin_betty:ams_destroyed" maxplayback="1" repeatdelay="10.0" priority="4" playbackflags="15"/>
+		<!--UAV-->
+		<Dialogue name="BB_UAV" res="Sounds/dialogue_english:bitchin_betty:uav" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3" timeout="2.0"/>
+		<Dialogue name="BB_UAV_Activated" res="Sounds/dialogue_english:bitchin_betty:uav_activated" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3" timeout="2.0"/>
+		<Dialogue name="BB_UAV_Deactivated" res="Sounds/dialogue_english:bitchin_betty:uav_deactivated" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3" timeout="2.0"/>
+		<Dialogue name="BB_UAV_Destroyed" res="Sounds/dialogue_english:bitchin_betty:uav_destroyed" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3" timeout="2.0"/>
+		<!--STRATEGIC STRIKE-->
+		<Dialogue name="BB_Artillery" res="Sounds/dialogue_english:bitchin_betty:arillery_strike" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3" timeout="2.0"/>
+		<Dialogue name="BB_Artillery_Activated" res="Sounds/dialogue_english:bitchin_betty:artillery_strike_activated" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3" timeout="2.0"/>
+		<Dialogue name="BB_Artillery_Deactivated" res="Sounds/dialogue_english:bitchin_betty:artillery_strike_deactivated" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3" timeout="2.0"/>
+		<Dialogue name="BB_Artillery_Online" res="Sounds/dialogue_english:bitchin_betty:artillery_strike_online" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3"/>
+		<Dialogue name="BB_Airstrike" res="Sounds/dialogue_english:bitchin_betty:air_strike" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3" timeout="2.0"/>
+		<Dialogue name="BB_Airstrike_Activated" res="Sounds/dialogue_english:bitchin_betty:air_strike_activated" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3" timeout="2.0"/>
+		<Dialogue name="BB_Airstrike_Deactivated" res="Sounds/dialogue_english:bitchin_betty:air_strike_deactivated" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3" timeout="2.0"/>
+		<Dialogue name="BB_Airstrike_Online" res="Sounds/dialogue_english:bitchin_betty:air_strike_online" maxplayback="1" repeatdelay="10.0" priority="6" playbackflags="3"/>
+
+		<!-- Game Events -->
+		<!-- Capture dialogue_english -->
+		<Dialogue name="BB_Base_25_Captured" res="Sounds/dialogue_english:bitchin_betty:base_25%_captured" maxplayback="1" priority="5" playbackflags="7"/>
+		<Dialogue name="BB_Base_50_Captured" res="Sounds/dialogue_english:bitchin_betty:base_50%_captured" maxplayback="1" priority="5" playbackflags="7"/>
+		<Dialogue name="BB_Base_75_Captured" res="Sounds/dialogue_english:bitchin_betty:base_75%_captured" maxplayback="1" priority="5" playbackflags="7"/>
+		<Dialogue name="BB_Base_90_Captured" res="Sounds/dialogue_english:bitchin_betty:base_90%_captured" maxplayback="1" priority="5" playbackflags="7"/>
+		<Dialogue name="BB_Base_Being_Captured" res="Sounds/dialogue_english:bitchin_betty:base_being_captured" repeatdelay="15.0" timeout="3.0" maxplayback="1" priority="5" playbackflags="7"/>
+		<Dialogue name="BB_Enemy_Base_Being_Captured" res="Sounds/dialogue_english:bitchin_betty:enemy_base_being_captured" repeatdelay="15.0" timeout="3.0" maxplayback="1" priority="5" playbackflags="7"/>
+		
+		<!-- Mech Warnings -->
+		<!-- Jump Jets -->
+		<Dialogue name="BB_Mech_Fuel_Empty" res="Sounds/dialogue_english:bitchin_betty:fuel_0%" maxplayback="1" repeatdelay="5.0" priority="5" playbackflags="7"/>
+		<Dialogue name="BB_Mech_Fuel_Low" res="Sounds/dialogue_english:bitchin_betty:fuel_25%" maxplayback="1" repeatdelay="5.0" priority="5" playbackflags="7"/>
+		<!-- Other -->
+		<Dialogue name="BB_Mech_Heat_Critical" res="Sounds/dialogue_english:bitchin_betty:heatlevel_critical" maxplayback="1" timeout="2.0" repeatdelay="3.0" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Mech_Override_Engaged" res="Sounds/dialogue_english:bitchin_betty:override_engaged" maxplayback="1" timeout="2.0" repeatdelay="4.0" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Mech_HeatSink_Destroyed" res="Sounds/dialogue_english:bitchin_betty:heatsink_destroyed" maxplayback="1" repeatdelay="10.0" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Mech_Incoming_Missile" res="Sounds/dialogue_english:bitchin_betty:incoming_missile" maxplayback="1" repeatdelay="3.0" timeout="3.0" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Mech_Warning_Missile_Lock" res="Sounds/dialogue_english:bitchin_betty:missile_lock" maxplayback="1" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Mech_Warning_Out_Of_Bounds" res="Sounds/dialogue_english:bitchin_betty:out_of_bounds" maxplayback="1" repeatdelay="5" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Mech_Warning_Targeted" res="Sounds/dialogue_english:bitchin_betty:warning_targeted" maxplayback="1" repeatdelay="3.0" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_New_Target_Acquired" res="Sounds/dialogue_english:bitchin_betty:new_target_acquired" maxplayback="1" timeout="1.0" repeatdelay="3.0" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Target_Acquired" res="Sounds/dialogue_english:bitchin_betty:target_acquired" maxplayback="1" timeout="1.0" repeatdelay="3.0" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Target_Destroyed" res="Sounds/dialogue_english:bitchin_betty:target_destroyed" maxplayback="1" timeout="1.0" repeatdelay="3.0" priority="5" playbackflags="35"/>
+		<!-- Startup & Shutdown -->
+		<Dialogue name="BB_Mech_System_Offline" res="Sounds/dialogue_english:bitchin_betty:system_offline" maxplayback="1" priority="4" playbackflags="3"/>
+		<Dialogue name="BB_Mech_Override_Shutdown" res="Sounds/dialogue_english:bitchin_betty:override_shutdown" maxplayback="1" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Mech_Reactor_Online" res="Sounds/dialogue_english:bitchin_betty:reactor_online" maxplayback="1" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Mech_Sensors_Online" res="Sounds/dialogue_english:bitchin_betty:sensors_online" maxplayback="1" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Mech_Weapons_Online" res="Sounds/dialogue_english:bitchin_betty:weapons_online" maxplayback="1" priority="5" playbackflags="3"/>
+		<Dialogue name="BB_Mech_All_Systems_Nominal" res="Sounds/dialogue_english:bitchin_betty:all_systems_nominal" maxplayback="1" priority="5" playbackflags="3"/>
+		<!-- Misc-->
+		<Dialogue name="BB_Mech_Flushing_Coolant" res="Sounds/dialogue_english:bitchin_betty:flushing_coolant" maxplayback="1" priority="6" playbackflags="3" timeout="2.0"/>
+    
+		<!-- Countdown-->
+		<Dialogue name="BB_Countdown_1" res="Sounds/dialogue_english:bitchin_betty:countdown1" maxplayback="1" priority="2" playbackflags="3" timeout="1.0"/>
+		<Dialogue name="BB_Countdown_2" res="Sounds/dialogue_english:bitchin_betty:countdown2" maxplayback="1" priority="2" playbackflags="3" timeout="1.0"/>
+		<Dialogue name="BB_Countdown_3" res="Sounds/dialogue_english:bitchin_betty:countdown3" maxplayback="1" priority="2" playbackflags="3" timeout="1.0"/>
+		<Dialogue name="BB_Countdown_4" res="Sounds/dialogue_english:bitchin_betty:countdown4" maxplayback="1" priority="2" playbackflags="3" timeout="1.0"/>
+		<Dialogue name="BB_Countdown_5" res="Sounds/dialogue_english:bitchin_betty:countdown5" maxplayback="1" priority="2" playbackflags="3" timeout="1.0"/>
+		<Dialogue name="BB_Countdown_6" res="Sounds/dialogue_english:bitchin_betty:countdown6" maxplayback="1" priority="2" playbackflags="3" timeout="1.0"/>
+		<Dialogue name="BB_Countdown_7" res="Sounds/dialogue_english:bitchin_betty:countdown7" maxplayback="1" priority="2" playbackflags="3" timeout="1.0"/>
+		<Dialogue name="BB_Countdown_8" res="Sounds/dialogue_english:bitchin_betty:countdown8" maxplayback="1" priority="2" playbackflags="3" timeout="1.0"/>
+		<Dialogue name="BB_Countdown_9" res="Sounds/dialogue_english:bitchin_betty:countdown9" maxplayback="1" priority="2" playbackflags="3" timeout="1.0"/>
+		<Dialogue name="BB_Countdown_10" res="Sounds/dialogue_english:bitchin_betty:countdown10" maxplayback="1" priority="2" playbackflags="3" timeout="1.0"/>
+		<Dialogue name="BB_EjectWarning" res="Sounds/dialogue_english:bitchin_betty:eject" maxplayback="1" priority="2" playbackflags="3" timeout="1.0"/>
+	</SoundList>
+</BitchinBettyDialogue>

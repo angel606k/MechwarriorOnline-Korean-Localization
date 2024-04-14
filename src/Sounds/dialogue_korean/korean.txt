@@ -1,0 +1,54 @@
+Sounds\dialogue_english
+<DIR>          .
+<DIR>          ..
+<DIR>          Conquest
+<DIR>          solaris
+<DIR>          Skirmish
+<DIR>          Scouting
+<DIR>          Domination
+<DIR>          Escort
+<DIR>          Incursion
+<DIR>          Invasion
+dialogue_english.fdp
+dialogue_english.fev
+dialogue_english_bank00.fsb
+
+Sounds\dialogue_english\Conquest
+conquest.fdp
+conquest.fev
+conquest.fsb
+
+Sounds\dialogue_english\Domination
+domination.fdp
+domination.fev
+domination.fsb
+
+Sounds\dialogue_english\Escort
+escort.fdp
+escort.fev
+escort.fsb
+
+Sounds\dialogue_english\Incursion
+incursion.fdp
+incursion.fev
+incursion.fsb
+
+Sounds\dialogue_english\Invasion
+invasion.fdp
+invasion.fev
+invasion.fsb
+
+Sounds\dialogue_english\Scouting
+scouting.fdp
+scouting.fev
+scouting.fsb
+
+Sounds\dialogue_english\Skirmish
+skirmish.fdp
+skirmish.fev
+skirmish.fsb
+
+Sounds\dialogue_english\solaris
+solaris.fdp
+solaris.fev
+solaris.fsb

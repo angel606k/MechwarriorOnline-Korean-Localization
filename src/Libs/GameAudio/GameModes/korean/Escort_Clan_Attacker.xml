@@ -1,0 +1,11 @@
+<GameModeDialogue>
+    <Dialogue name="GM_Match_Begins" fileName="Sounds/dialogue_english/escort:escort_clan_attacker:match_begins" playOnce="1"/>
+	<Dialogue name="GM_Victory" fileName="Sounds/dialogue_english/escort:escort_clan_attacker:victory" playOnce="1"/>	
+	<Dialogue name="GM_Victory_Escort_Dies" fileName="Sounds/dialogue_english/escort:Placeholder.placeholder" playOnce="1"/>
+	<Dialogue name="GM_Defeat" fileName="Sounds/dialogue_english/escort:escort_clan_attacker:defeat" playOnce="1"/> 
+	<Dialogue name="GM_Escort_25" fileName="Sounds/dialogue_english/escort:escort_clan_attacker:atlas_25%_to_end" playOnce="1"/>
+	<Dialogue name="GM_Escort_50" fileName="Sounds/dialogue_english/escort:escort_clan_attacker:atlas_50%_to_end" playOnce="1"/>
+	<Dialogue name="GM_Escort_75" fileName="Sounds/dialogue_english/escort:escort_clan_attacker:atlas_75%_to_end" playOnce="1"/>
+	<Dialogue name="GM_Escort_Take_Fire" fileName="Sounds/dialogue_english/escort:escort_clan_attacker:atlas_damaged" playOnce="1"/>
+	<Dialogue name="GM_Dropship_Transit" fileName="Sounds/dialogue_english/escort:escort_clan_attacker:enemy_dropship" playOnce="1"/>
+</GameModeDialogue>

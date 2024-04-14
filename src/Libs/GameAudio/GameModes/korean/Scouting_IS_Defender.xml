@@ -1,0 +1,11 @@
+<GameModeDialogue>
+	<Dialogue name="GM_Match_Begins" fileName="Sounds/dialogue_english/scouting:scouting_is_defender:match_begins" playOnce="1"/>
+    <Dialogue name="GM_All_Pickups_Ally" fileName="Sounds/dialogue_english/scouting:scouting_is_defender:all_pickups_ally" playOnce="1"/>
+    <Dialogue name="GM_All_Pickups_Enemy" fileName="Sounds/dialogue_english/scouting:scouting_is_defender:all_pickups_enemy" playOnce="1"/>
+    <Dialogue name="GM_Dropship_Transit" fileName="Sounds/dialogue_english/scouting:scouting_is_defender:gm_dropship_transit" playOnce="1"/>
+    <Dialogue name="GM_Dropship_Arrives" fileName="Sounds/dialogue_english/scouting:scouting_is_defender:gm_dropship_arrives" playOnce="1"/>
+    <Dialogue name="GM_Dropship_Departs_Victory" fileName="Sounds/dialogue_english/scouting:scouting_is_defender:gm_dropship_departs_victory" playOnce="1"/>
+    <Dialogue name="GM_Dropship_Departs_Failure" fileName="Sounds/dialogue_english/scouting:scouting_is_defender:gm_dropship_departs_failure" playOnce="1"/>
+    <Dialogue name="GM_Team_Eliminated_Ally" fileName="Sounds/dialogue_english/scouting:scouting_is_defender:gm_team_eliminated_ally" playOnce="1"/>
+    <Dialogue name="GM_Team_Eliminated_Enemy" fileName="Sounds/dialogue_english/scouting:scouting_is_defender:gm_team_eliminated_enemy" playOnce="1"/>
+</GameModeDialogue>

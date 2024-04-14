@@ -1,0 +1,24 @@
+<CommandWheelDialogue>
+	<SoundList>
+		<!-- Command Wheel Sounds -->
+		<Sound Name="CmdAffirmative" res="Sounds/dialogue_english:commandwheel_IS_male:affirmative" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdAirStrike" res="Sounds/dialogue_english:commandwheel_IS_male:air_strike" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdArtillery" res="Sounds/dialogue_english:commandwheel_IS_male:artillery" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdAttack" res="Sounds/dialogue_english:commandwheel_IS_male:attack" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdCapture" res="Sounds/dialogue_english:commandwheel_IS_male:capture" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdFollow" res="Sounds/dialogue_english:commandwheel_IS_male:follow" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdHelp" res="Sounds/dialogue_english:commandwheel_IS_male:help" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdHold" res="Sounds/dialogue_english:commandwheel_IS_male:hold" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdMove" res="Sounds/dialogue_english:commandwheel_IS_male:move" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdNegative" res="Sounds/dialogue_english:commandwheel_IS_male:negative" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdProtect" res="Sounds/dialogue_english:commandwheel_IS_male:protect" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdScout" res="Sounds/dialogue_english:commandwheel_IS_male:scout" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdSorry" res="Sounds/dialogue_english:commandwheel_IS_male:sorry" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdSpotted" res="Sounds/dialogue_english:commandwheel_IS_male:spotted" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdThankyou" res="Sounds/dialogue_english:commandwheel_IS_male:thank_you" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdUAVRequest" res="Sounds/dialogue_english:commandwheel_IS_male:uav" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdProtectPosition" res="Sounds/dialogue_english:commandwheel_IS_male:defend" offset="0.0,0.0,0.0" playbackflags="1"/>
+		<Sound Name="CmdFlankLeft" res="Sounds/dialogue_english:commandwheel_IS_male:flank_left" offset="0.0,0.0,0.0"  playbackflags="1"/>
+		<Sound Name="CmdFlankRight" res="Sounds/dialogue_english:commandwheel_IS_male:flank_right" offset="0.0,0.0,0.0"  playbackflags="1"/>
+	</SoundList>
+</CommandWheelDialogue>

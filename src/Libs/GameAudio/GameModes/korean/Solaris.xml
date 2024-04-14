@@ -1,0 +1,20 @@
+<SolarisAnnouncerDialogue>
+  <!--<Dialogue name="ExampleName" fileName="Sounds/dialogue_eng/solaris..." optional(playOnce="1")/>-->
+  <Dialogue name="eSolaris_Announcer_Map_Boreal_Reach" fileName="Sounds/dialogue_english/solaris:solaris:map_intro_boreal" playOnce="1"/>
+  <Dialogue name="eSolaris_Announcer_Map_Factory" fileName="Sounds/dialogue_english/solaris:solaris:map_intro_factory" playOnce="1"/>
+  <Dialogue name="eSolaris_Announcer_Map_Steiner_Collosseum" fileName="Sounds/dialogue_englishlish/solaris:solaris:map_intro_steiner" playOnce="1"/>
+  <Dialogue name="eSolaris_Announcer_Map_Jungle" fileName="Sounds/dialogue_english/solaris:solaris:map_intro_jungle" playOnce="1"/>
+  <Dialogue name="eSolaris_Announcer_Map_Ishiyama_Caves" fileName="Sounds/dialogue_english/solaris:solaris:map_intro_caves" playOnce="1"/>
+  <Dialogue name="eSolaris_Announcer_Intro_1v1" fileName="Sounds/dialogue_english/solaris:solaris:som_1v1" playOnce="1"/>
+  <Dialogue name="eSolaris_Announcer_Intro_2v2" fileName="Sounds/dialogue_english/solaris:solaris:som_2v2" playOnce="1"/>
+  <Dialogue name="eSolaris_Announcer_Destroyed_Arm" fileName="Sounds/dialogue_english/solaris:solaris:cd_arm"/>
+  <Dialogue name="eSolaris_Announcer_Destroyed_Leg" fileName="Sounds/dialogue_english/solaris:solaris:cd_leg"/>
+  <Dialogue name="eSolaris_Announcer_Death_By_Legs" fileName="Sounds/dialogue_english/solaris:solaris:cd_legged"/>
+  <Dialogue name="eSolaris_Announcer_Death_By_Headshot" fileName="Sounds/dialogue_english/solaris:solaris:cd_headshot"/>
+  <Dialogue name="eSolaris_Announcer_Similar_Elo" fileName="Sounds/dialogue_english/solaris:solaris:som_elo"/>
+  <Dialogue name="eSolaris_Announcer_Different_Elo" fileName="Sounds/dialogue_english/solaris:solaris:som_elo_diff"/>
+  <Dialogue name="eSolaris_Announcer_1v1_Win_High_Health" fileName="Sounds/dialogue_english/solaris:solaris:eom_1v1_high"/>
+  <Dialogue name="eSolaris_Announcer_1v1_Win_Low_Health" fileName="Sounds/dialogue_english/solaris:solaris:eom_1v1_low"/>
+  <Dialogue name="eSolaris_Announcer_2v2_Win_Both_Alive" fileName="Sounds/dialogue_english/solaris:solaris:eom_2v2_both"/>
+  <Dialogue name="eSolaris_Announcer_2v2_Win_One_Survivor" fileName="Sounds/dialogue_english/solaris:solaris:eom_2v2_one"/>
+</SolarisAnnouncerDialogue>
