@@ -29,7 +29,7 @@
 ## ※멕워리어 온라인 한글패치 참여방법
 ### [멕워리어 온라인 한글패치 스프레드시트](https://docs.google.com/spreadsheets/d/1RD3esK3-avSUXc6iZUlXWHvV5VNbbtNsFOKaQUcQOWg/edit#gid=145009810)
 ### 한글화에 기여하시고자 하는 분들께서는 해당 스프레드시트의 수정권한이 필요합니다.
-### 디스코드: https://discord.gg/yCbVMMN422 에 접속하셔서 확인 부탁드립니다!
+### [공식 디스코드](https://discord.gg/DytKw8dMkZ) 에 접속하셔서 확인 부탁드립니다!
 #### 차후 멕워리어5의 한글화가 진행될 예정이니 많은 관심 부탁드립니다.
 
 ## 1. 테스트 패치 다운로드 및 적용방법
