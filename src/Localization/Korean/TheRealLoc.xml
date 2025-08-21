@@ -244,7 +244,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C3:R2C4"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="29549" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="29589" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s62">
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="13.5"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="271.5"/>
@@ -94225,7 +94225,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">qrk_ammocapacity_cgauss_add</Data></Cell>
     <Cell><Data ss:Type="String">Clan Gauss Ammo Capacity</Data></Cell>
-    <Cell><Data ss:Type="String">클랜 가우스 캐논 탄약량</Data></Cell>
+    <Cell><Data ss:Type="String">클랜 가우스 라이플 탄약량</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">qrk_ammocapacity_cac2_add</Data></Cell>
@@ -94490,7 +94490,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">qrk_sensorrange_mult</Data></Cell>
     <Cell><Data ss:Type="String">Sensor Range</Data></Cell>
-    <Cell><Data ss:Type="String">센서 사거리</Data></Cell>
+    <Cell><Data ss:Type="String">센서 범위</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">qrk_targetinfogathering_mult</Data></Cell>
@@ -94510,12 +94510,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">qrk_seismicsensorrange_add</Data></Cell>
     <Cell><Data ss:Type="String">Seismic Sensor Range</Data></Cell>
-    <Cell><Data ss:Type="String">진동 감지 센서 사거리</Data></Cell>
+    <Cell><Data ss:Type="String">진동 감지 센서 범위</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">qrk_backfacetargetretentionrange_add</Data></Cell>
     <Cell><Data ss:Type="String">360 Target Retention Range</Data></Cell>
-    <Cell><Data ss:Type="String">360 Target Retention 사거리</Data></Cell>
+    <Cell><Data ss:Type="String">전방위 목표 유지 범위</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">qrk_uavrange_mult</Data></Cell>
@@ -119870,7 +119870,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_VersionNumber</Data></Cell>
     <Cell><Data ss:Type="String">Version Number %0</Data></Cell>
-    <Cell><Data ss:Type="String">게임 버전: %0 (한글패치:20250804)</Data></Cell>
+    <Cell><Data ss:Type="String">게임 버전: %0 (한글패치:20250821)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@ui_title_HellfireStand</Data></Cell>
@@ -137935,7 +137935,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">FlagTurkey_name</Data></Cell>
     <Cell><Data ss:Type="String">FLAG: TURKEY</Data></Cell>
-    <Cell><Data ss:Type="String">FLAG: TURKEY</Data></Cell>
+    <Cell><Data ss:Type="String">깃발: 튀르키예</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">FlagTurkey_desc</Data></Cell>
@@ -148001,6 +148001,206 @@
     <Cell ss:Index="2"><Data ss:Type="String">ui_MWOCS_2025_Tournament_t1_desc</Data></Cell>
     <Cell><Data ss:Type="String">MWOCS Booster provides a 10% boost to all of your C-Bill and XP earnings</Data></Cell>
     <Cell><Data ss:Type="String">MWOCS Booster provides a 10% boost to all of your C-Bill and XP earnings</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_VoidKillerStand</Data></Cell>
+    <Cell><Data ss:Type="String">The Outsider</Data></Cell>
+    <Cell><Data ss:Type="String">The Outsider</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_WarGhoulStand</Data></Cell>
+    <Cell><Data ss:Type="String">Weapon of Mass Destruction</Data></Cell>
+    <Cell><Data ss:Type="String">Weapon of Mass Destruction</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">BSK-WGLGD</Data></Cell>
+    <Cell><Data ss:Type="String">WAR GHOUL</Data></Cell>
+    <Cell><Data ss:Type="String">워 구울</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">BSK-WGLGD_short</Data></Cell>
+    <Cell><Data ss:Type="String">BSK-WG(LGD)</Data></Cell>
+    <Cell><Data ss:Type="String">BSK-WG(LGD)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">BSK-VKLGD</Data></Cell>
+    <Cell><Data ss:Type="String">VOID KILLER</Data></Cell>
+    <Cell><Data ss:Type="String">보이드 킬러</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">BSK-VKLGD_short</Data></Cell>
+    <Cell><Data ss:Type="String">BSK-VK(LGD)</Data></Cell>
+    <Cell><Data ss:Type="String">BSK-VK(LGD)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Railgun</Data></Cell>
+    <Cell><Data ss:Type="String">RAILGUN</Data></Cell>
+    <Cell><Data ss:Type="String">RAILGUN</Data></Cell>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:Index="2"><Data ss:Type="String">Railgun_desc</Data></Cell>
+    <Cell><Data ss:Type="String">A colossal variation of a Heavy Gauss Rifle, the Railgun requires enormous power in exchange for dealing tremendous damage at extreme ranges.</Data></Cell>
+    <Cell><Data ss:Type="String">엄청난 파괴력을 가진 레일건은 헤비 가우스 라이플의 거대형 변형으로, 막대한 전력을 소모하는 대신 극한의 사거리에서 막대한 피해를 가합니다.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ClanRailgun</Data></Cell>
+    <Cell><Data ss:Type="String">C-RAILGUN</Data></Cell>
+    <Cell><Data ss:Type="String">클랜-RAILGUN</Data></Cell>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:Index="2"><Data ss:Type="String">ClanRailgun_desc</Data></Cell>
+    <Cell><Data ss:Type="String">A colossal variation of a Heavy Gauss Rifle, the Railgun requires enormous power in exchange for dealing tremendous damage at extreme ranges.</Data></Cell>
+    <Cell><Data ss:Type="String">엄청난 파괴력을 가진 레일건은 헤비 가우스 라이플의 거대형 변형으로, 막대한 전력을 소모하는 대신 극한의 사거리에서 막대한 피해를 가합니다.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_WARGHOUL_badge</Data></Cell>
+    <Cell><Data ss:Type="String">WAR GHOUL</Data></Cell>
+    <Cell><Data ss:Type="String">WAR GHOUL</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_WARGHOUL_bonus</Data></Cell>
+    <Cell><Data ss:Type="String">WAR GHOUL BONUS</Data></Cell>
+    <Cell><Data ss:Type="String">WAR GHOUL BONUS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">WARGHOULwarhorn_name</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Warhorn</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Warhorn</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">WARGHOULwarhorn_desc</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Warhorn item.</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Warhorn item.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">WARGHOULhanging_desc</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Hanging Item. Provides 5% cbill boost.</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Hanging Item. Provides 5% cbill boost.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">WARGHOULhanging_name</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Hanging Item</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Hanging Item</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">WARGHOULstanding_name</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Standing Item</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Standing Item</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">WARGHOULstanding_desc</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Standing Item.</Data></Cell>
+    <Cell><Data ss:Type="String">War Ghoul Standing Item.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_VOIDKILLER_badge</Data></Cell>
+    <Cell><Data ss:Type="String">VOID KILLER</Data></Cell>
+    <Cell><Data ss:Type="String">VOID KILLER</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_VOIDKILLER_bonus</Data></Cell>
+    <Cell><Data ss:Type="String">VOID KILLER BONUS</Data></Cell>
+    <Cell><Data ss:Type="String">VOID KILLER BONUS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">VOIDKILLERwarhorn_name</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Warhorn</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Warhorn</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">VOIDKILLERwarhorn_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Warhorn item.</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Warhorn item.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">VOIDKILLERhanging_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Hanging Item. Provides 5% cbill boost.</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Hanging Item. Provides 5% cbill boost.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">VOIDKILLERhanging_name</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Hanging Item</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Hanging Item</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">VOIDKILLERstanding_name</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Standing Item</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Standing Item</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">VOIDKILLERstanding_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Standing Item.</Data></Cell>
+    <Cell><Data ss:Type="String">Void Killer Standing Item.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_GAR-P_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">GAR-P RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">GAR-P 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_GAR-P_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">GAR-P Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">GAR-P 오른쪽 몸통 옴니포드</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">mdf_RailGunDummy</Data></Cell>
+    <Cell><Data ss:Type="String">RAILGUN MOUNT</Data></Cell>
+    <Cell><Data ss:Type="String">RAILGUN 거치대</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">RailGunAmmo</Data></Cell>
+    <Cell><Data ss:Type="String">RAILGUN AMMO</Data></Cell>
+    <Cell><Data ss:Type="String">RAILGUN 탄약</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">RailGunAmmoHalf</Data></Cell>
+    <Cell><Data ss:Type="String">RAILGUN AMMO (1/2)</Data></Cell>
+    <Cell><Data ss:Type="String">RAILGUN 탄약 (1/2)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ClanRailGunAmmo</Data></Cell>
+    <Cell><Data ss:Type="String">C-RAILGUN AMMO</Data></Cell>
+    <Cell><Data ss:Type="String">RAILGUN 탄약</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ClanRailGunAmmoHalf</Data></Cell>
+    <Cell><Data ss:Type="String">C-RAILGUN AMMO (1/2)</Data></Cell>
+    <Cell><Data ss:Type="String">클랜-RAILGUN 탄약 (1/2)</Data></Cell>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:Index="2"><Data ss:Type="String">RailGunAmmo_desc</Data></Cell>
+    <Cell><Data ss:Type="String">A large cailber ferrous nickle-iron slug that is electromagnetically fired from a Railgun.</Data></Cell>
+    <Cell><Data ss:Type="String">레일건에서 전자기적으로 발사되는 대구경 철-니켈 합금 탄환입니다.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">qrk_ammocapacity_railgun_add</Data></Cell>
+    <Cell><Data ss:Type="String">Railgun Ammo Capacity</Data></Cell>
+    <Cell><Data ss:Type="String">Railgun 탄약량</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">qrk_ammocapacity_crailgun_add</Data></Cell>
+    <Cell><Data ss:Type="String">Clan Railgun Ammo Capacity</Data></Cell>
+    <Cell><Data ss:Type="String">클랜 Railgun 탄약량</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_col_voidkiller_blue</Data></Cell>
+    <Cell><Data ss:Type="String">VOID KILLER BLUE</Data></Cell>
+    <Cell><Data ss:Type="String">VOID KILLER BLUE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_col_warghoul_yellow</Data></Cell>
+    <Cell><Data ss:Type="String">WAR GHOUL YELLOW</Data></Cell>
+    <Cell><Data ss:Type="String">WAR GHOUL YELLOW</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">h_voidkiller_cells_name</Data></Cell>
+    <Cell><Data ss:Type="String">CELLS</Data></Cell>
+    <Cell><Data ss:Type="String">CELLS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">h_warghoul_bones_name</Data></Cell>
+    <Cell><Data ss:Type="String">BONES</Data></Cell>
+    <Cell><Data ss:Type="String">BONES</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
