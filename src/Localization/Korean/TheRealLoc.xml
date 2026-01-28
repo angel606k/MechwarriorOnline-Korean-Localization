@@ -244,7 +244,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C3:R2C4"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="29589" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="29992" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s62">
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="13.5"/>
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="271.5"/>
@@ -15800,7 +15800,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_SplashScreen</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">©2012-2025 Piranha Games Inc. and/or their respective licensor. All Rights Reserved. Mechwarrior™ is a trade-mark of Microsoft Corporation in the United States and other jurisdictions and is used under license.</Data></Cell>
-    <Cell><Data ss:Type="String">2012 ~ 2025 Piranha Games Inc. 및 / 해당 사용 허가자가 판권을 소유한 Mechwarrior™ 는 미국 및 기타 국가에서 Microsoft Corporation의 트레이드 마크이며 라이센스 계약에 따라 사용됩니다.\n\n한글패치: Tari_Tomo / 번역 및 테스트: DCInside 배틀테크-맥워리어 갤러리\nSpecial Thanks: The Shirtless Korean, Calcium, Fein, monkeyhead\n, Daeron Katz (Piranha Games Inc.)</Data></Cell>
+    <Cell><Data ss:Type="String">©2012-2026 Piranha Games Inc. 및/또는 해당 라이선스 보유자. 모든 권리 보유. Mechwarrior™는 미국 및 기타 국가에서 Microsoft Corporation의 상표이며 라이선스에 따라 사용되고 있습니다.\n\n한글패치: Tari_Tomo / 번역 및 테스트: DCInside 배틀테크-맥워리어 갤러리\nSpecial Thanks: The Shirtless Korean, Calcium, Fein, monkeyhead\n, Daeron Katz (Piranha Games Inc.)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PressAnyKeyToContinue</Data></Cell>
@@ -91940,7 +91940,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_ISShort</Data></Cell>
     <Cell><Data ss:Type="String">IS</Data></Cell>
-    <Cell><Data ss:Type="String">IS</Data></Cell>
+    <Cell><Data ss:Type="String">이너스피어</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_EndsIn</Data></Cell>
@@ -119870,7 +119870,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_VersionNumber</Data></Cell>
     <Cell><Data ss:Type="String">Version Number %0</Data></Cell>
-    <Cell><Data ss:Type="String">게임 버전: %0 (한글패치:20250821)</Data></Cell>
+    <Cell><Data ss:Type="String">게임 버전: %0 (한글패치:20260128)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@ui_title_HellfireStand</Data></Cell>
@@ -134835,7 +134835,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">smn-g</Data></Cell>
     <Cell><Data ss:Type="String">SUMMONER SMN-G</Data></Cell>
-    <Cell><Data ss:Type="String">SUMMONER SMN-G</Data></Cell>
+    <Cell><Data ss:Type="String">서모너 SMN-G</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">smn-gs</Data></Cell>
@@ -137865,7 +137865,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mcii-mwklgd_desc</Data></Cell>
     <Cell><Data ss:Type="String">The personal 'Mech of an unknown MechWarrior.</Data></Cell>
-    <Cell><Data ss:Type="String">The personal 'Mech of an unknown MechWarrior.</Data></Cell>
+    <Cell><Data ss:Type="String">알려지지 않은 멕워리어의 전용기입니다.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">mcii-mwklgd_short</Data></Cell>
@@ -138755,7 +138755,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">anh-gzlgd_desc</Data></Cell>
     <Cell><Data ss:Type="String">The personal 'Mech of an unknown MechWarrior.</Data></Cell>
-    <Cell><Data ss:Type="String">The personal 'Mech of an unknown MechWarrior.</Data></Cell>
+    <Cell><Data ss:Type="String">알려지지 않은 멕워리어의 전용기입니다.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">anh-gzlgd_short</Data></Cell>
@@ -138770,7 +138770,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">anh-sclgd_desc</Data></Cell>
     <Cell><Data ss:Type="String">The personal 'Mech of an unknown MechWarrior.</Data></Cell>
-    <Cell><Data ss:Type="String">The personal 'Mech of an unknown MechWarrior.</Data></Cell>
+    <Cell><Data ss:Type="String">알려지지 않은 멕워리어의 전용기입니다.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">anh-sclgd_short</Data></Cell>
@@ -138945,7 +138945,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ClanHyperAssaultGauss40Ammo</Data></Cell>
     <Cell><Data ss:Type="String">C-H.A. GAUSS AMMO</Data></Cell>
-    <Cell><Data ss:Type="String">클랜-H.A. GAUSS 탄약</Data></Cell>
+    <Cell><Data ss:Type="String">클랜-H.A. GAUSS 40 탄약</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ClanHyperAssaultGauss40Ammo_desc</Data></Cell>
@@ -138975,7 +138975,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ClanHyperAssaultGauss40AmmoHalf</Data></Cell>
     <Cell><Data ss:Type="String">C-H.A. GAUSS AMMO (1/2)</Data></Cell>
-    <Cell><Data ss:Type="String">클랜-H.A. GAUSS 탄약 (1/2)</Data></Cell>
+    <Cell><Data ss:Type="String">클랜-H.A. GAUSS 40 탄약 (1/2)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ClanHyperAssaultGauss40AmmoHalf_desc</Data></Cell>
@@ -139880,7 +139880,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">as7-wlgd_desc</Data></Cell>
     <Cell><Data ss:Type="String">The personal 'Mech of an unknown MechWarrior.</Data></Cell>
-    <Cell><Data ss:Type="String">The personal 'Mech of an unknown MechWarrior.</Data></Cell>
+    <Cell><Data ss:Type="String">알려지지 않은 멕워리어의 전용기입니다.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">@B_CROWN_ATLAS_NAME</Data></Cell>
@@ -142110,12 +142110,12 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LAC2AMMO</Data></Cell>
     <Cell><Data ss:Type="String">LIGHT AC/2 AMMO</Data></Cell>
-    <Cell><Data ss:Type="String">LIGHT AC/2 AMMO</Data></Cell>
+    <Cell><Data ss:Type="String">경량 AC/2 탄약</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LAC5AMMO</Data></Cell>
     <Cell><Data ss:Type="String">LIGHT AC/5 AMMO</Data></Cell>
-    <Cell><Data ss:Type="String">LIGHT AC/5 AMMO</Data></Cell>
+    <Cell><Data ss:Type="String">경량 AC/5 탄약</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LAC5AMMO_desc</Data></Cell>
@@ -148037,7 +148037,7 @@
     <Cell><Data ss:Type="String">RAILGUN</Data></Cell>
     <Cell><Data ss:Type="String">RAILGUN</Data></Cell>
    </Row>
-   <Row ss:Height="25.5">
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:Index="2"><Data ss:Type="String">Railgun_desc</Data></Cell>
     <Cell><Data ss:Type="String">A colossal variation of a Heavy Gauss Rifle, the Railgun requires enormous power in exchange for dealing tremendous damage at extreme ranges.</Data></Cell>
     <Cell><Data ss:Type="String">엄청난 파괴력을 가진 레일건은 헤비 가우스 라이플의 거대형 변형으로, 막대한 전력을 소모하는 대신 극한의 사거리에서 막대한 피해를 가합니다.</Data></Cell>
@@ -148047,7 +148047,7 @@
     <Cell><Data ss:Type="String">C-RAILGUN</Data></Cell>
     <Cell><Data ss:Type="String">클랜-RAILGUN</Data></Cell>
    </Row>
-   <Row ss:Height="25.5">
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:Index="2"><Data ss:Type="String">ClanRailgun_desc</Data></Cell>
     <Cell><Data ss:Type="String">A colossal variation of a Heavy Gauss Rifle, the Railgun requires enormous power in exchange for dealing tremendous damage at extreme ranges.</Data></Cell>
     <Cell><Data ss:Type="String">엄청난 파괴력을 가진 레일건은 헤비 가우스 라이플의 거대형 변형으로, 막대한 전력을 소모하는 대신 극한의 사거리에서 막대한 피해를 가합니다.</Data></Cell>
@@ -148167,7 +148167,7 @@
     <Cell><Data ss:Type="String">C-RAILGUN AMMO (1/2)</Data></Cell>
     <Cell><Data ss:Type="String">클랜-RAILGUN 탄약 (1/2)</Data></Cell>
    </Row>
-   <Row ss:Height="25.5">
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:Index="2"><Data ss:Type="String">RailGunAmmo_desc</Data></Cell>
     <Cell><Data ss:Type="String">A large cailber ferrous nickle-iron slug that is electromagnetically fired from a Railgun.</Data></Cell>
     <Cell><Data ss:Type="String">레일건에서 전자기적으로 발사되는 대구경 철-니켈 합금 탄환입니다.</Data></Cell>
@@ -148201,6 +148201,2021 @@
     <Cell ss:Index="2"><Data ss:Type="String">h_warghoul_bones_name</Data></Cell>
     <Cell><Data ss:Type="String">BONES</Data></Cell>
     <Cell><Data ss:Type="String">BONES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-DT</Data></Cell>
+    <Cell><Data ss:Type="String">DANTE</Data></Cell>
+    <Cell><Data ss:Type="String">단테</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-DT_short</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-DT</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-DT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC SHD-IIC</Data></Cell>
+    <Cell><Data ss:Type="String">쉐도우 호크 IIC SHD-IIC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC_short</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IICS</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC SHD-IIC(S)</Data></Cell>
+    <Cell><Data ss:Type="String">쉐도우 호크 IIC SHD-IIC(S)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IICS_short</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC(S)</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC(S)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-2_short</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-2</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-4_short</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-4</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-6_short</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-6</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-A_short</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-A</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-A</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-B_short</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-B</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-B</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-5_short</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-5</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-2</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC SHD-IIC-2</Data></Cell>
+    <Cell><Data ss:Type="String">쉐도우 호크 IIC SHD-IIC-2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-4</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC SHD-IIC-4</Data></Cell>
+    <Cell><Data ss:Type="String">쉐도우 호크 IIC SHD-IIC-4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-5</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC SHD-IIC-5</Data></Cell>
+    <Cell><Data ss:Type="String">쉐도우 호크 IIC SHD-IIC-5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-6</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC SHD-IIC-6</Data></Cell>
+    <Cell><Data ss:Type="String">쉐도우 호크 IIC SHD-IIC-6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-A</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC SHD-IIC-A</Data></Cell>
+    <Cell><Data ss:Type="String">쉐도우 호크 IIC SHD-IIC-A</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-B</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC SHD-IIC-B</Data></Cell>
+    <Cell><Data ss:Type="String">쉐도우 호크 IIC SHD-IIC-B</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">emechmodel_shadowhawkiic</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC</Data></Cell>
+    <Cell><Data ss:Type="String">쉐도우 호크 IIC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">@shadowhawkiic</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_ShadowHawkIICCollectorStand</Data></Cell>
+    <Cell><Data ss:Type="String">The Stormbird</Data></Cell>
+    <Cell><Data ss:Type="String">The Stormbird</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_ShadowHawkIICHeroStand</Data></Cell>
+    <Cell><Data ss:Type="String">Forged in Fire</Data></Cell>
+    <Cell><Data ss:Type="String">Forged in Fire</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_ShadowHawkIIC_Collector_Badge_Decal</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC COLLECTOR</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC COLLECTOR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_ShadowHawkIIC_Hero_Badge_Decal</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC HERO</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC HERO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">shdiicwarhorn_name</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Warhorn</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Warhorn</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">shdiicwarhorn_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Warhorn item.</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Warhorn item.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">shdiichanging_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Hanging Item. Provides 5% cbill boost.</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Hanging Item. Provides 5% cbill boost.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">shdiichanging_name</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Hanging Item</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Hanging Item</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">shdiicstanding_name</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Standing Item</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Standing Item</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">shdiicstanding_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Standing Item.</Data></Cell>
+    <Cell><Data ss:Type="String">Shadow Hawk IIC Standing Item.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">MDD-SI</Data></Cell>
+    <Cell><Data ss:Type="String">SIGMA</Data></Cell>
+    <Cell><Data ss:Type="String">시그마</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">MDD-SI_short</Data></Cell>
+    <Cell><Data ss:Type="String">MDD-SI</Data></Cell>
+    <Cell><Data ss:Type="String">MDD-SI</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ctf-5moc</Data></Cell>
+    <Cell><Data ss:Type="String">NAOMI</Data></Cell>
+    <Cell><Data ss:Type="String">나오미</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ctf-5moc_short</Data></Cell>
+    <Cell><Data ss:Type="String">CTF-5MOC</Data></Cell>
+    <Cell><Data ss:Type="String">CTF-5MOC</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">wvr-s</Data></Cell>
+    <Cell><Data ss:Type="String">STARSHOT</Data></Cell>
+    <Cell><Data ss:Type="String">스타샷</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">wvr-s_short</Data></Cell>
+    <Cell><Data ss:Type="String">WVR-S</Data></Cell>
+    <Cell><Data ss:Type="String">WVR-S</Data></Cell>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:Index="2"><Data ss:Type="String">ImprovedJumpJets_ClassII_desc</Data></Cell>
+    <Cell><Data ss:Type="String">An upgraded version of the Class II Jumpjet. Produces less heat and stronger thrust in exchange for more weight.</Data></Cell>
+    <Cell><Data ss:Type="String">An upgraded version of the Class II Jumpjet. Produces less heat and stronger thrust in exchange for more weight.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ClanMASCMkIFireMoth_desc</Data></Cell>
+    <Cell><Data ss:Type="String">A Fire Moth specific modification of the MASC Mk I with lower ouput.</Data></Cell>
+    <Cell><Data ss:Type="String">A Fire Moth specific modification of the MASC Mk I with lower ouput.</Data></Cell>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:Index="2"><Data ss:Type="String">BaneHeroComputer_desc</Data></Cell>
+    <Cell><Data ss:Type="String">An experimental ammo loader that places unique munitions in ballistic weapons. Also carries a rudimentary Targeting Computer MK I.</Data></Cell>
+    <Cell><Data ss:Type="String">An experimental ammo loader that places unique munitions in ballistic weapons. Also carries a rudimentary Targeting Computer MK I.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS23_2D20_Logo</Data></Cell>
+    <Cell><Data ss:Type="String">2D20 Logo</Data></Cell>
+    <Cell><Data ss:Type="String">2D20 Logo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2024_LOGO_2D20</Data></Cell>
+    <Cell><Data ss:Type="String">2D20 LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">2D20 LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2024_Text_2D20</Data></Cell>
+    <Cell><Data ss:Type="String">2D20 TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">2D20 TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_head</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_DWF-WM_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_head</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-BH2_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_head</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HBR-AH_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_COAL</Data></Cell>
+    <Cell><Data ss:Type="String">COAL LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">COAL LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_COAL</Data></Cell>
+    <Cell><Data ss:Type="String">COAL TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">COAL TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_VILE</Data></Cell>
+    <Cell><Data ss:Type="String">VILE LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">VILE LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_VILE</Data></Cell>
+    <Cell><Data ss:Type="String">VILE TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">VILE TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_RVNT</Data></Cell>
+    <Cell><Data ss:Type="String">RVNT LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">RVNT LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_RVNT</Data></Cell>
+    <Cell><Data ss:Type="String">RVNT TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">RVNT TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_FJST</Data></Cell>
+    <Cell><Data ss:Type="String">FJST LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">FJST LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_FJST</Data></Cell>
+    <Cell><Data ss:Type="String">FJST TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">FJST TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_2D20</Data></Cell>
+    <Cell><Data ss:Type="String">2D20 LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">2D20 LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_2D20</Data></Cell>
+    <Cell><Data ss:Type="String">2D20 TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">2D20 TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_000M</Data></Cell>
+    <Cell><Data ss:Type="String">000M LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">000M LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_000M</Data></Cell>
+    <Cell><Data ss:Type="String">000M TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">000M TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_KDUM</Data></Cell>
+    <Cell><Data ss:Type="String">KDUM LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">KDUM LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_KDUM</Data></Cell>
+    <Cell><Data ss:Type="String">KDUM TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">KDUM TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_228R</Data></Cell>
+    <Cell><Data ss:Type="String">228R LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">228R LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_228R</Data></Cell>
+    <Cell><Data ss:Type="String">228R TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">228R TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_CXF</Data></Cell>
+    <Cell><Data ss:Type="String">CXF LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">CXF LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_CXF</Data></Cell>
+    <Cell><Data ss:Type="String">CXF TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">CXF TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_ELO</Data></Cell>
+    <Cell><Data ss:Type="String">ELO LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">ELO LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_ELO</Data></Cell>
+    <Cell><Data ss:Type="String">ELO TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">ELO TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_MW6</Data></Cell>
+    <Cell><Data ss:Type="String">MW6 LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">MW6 LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_MW6</Data></Cell>
+    <Cell><Data ss:Type="String">MW6 TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">MW6 TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_LOGO_KSG</Data></Cell>
+    <Cell><Data ss:Type="String">KSG LOGO</Data></Cell>
+    <Cell><Data ss:Type="String">KSG LOGO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Text_KSG</Data></Cell>
+    <Cell><Data ss:Type="String">KSG TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">KSG TEXT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_IconsStand</Data></Cell>
+    <Cell><Data ss:Type="String">The Symbol</Data></Cell>
+    <Cell><Data ss:Type="String">The Symbol</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">DWF-WMS</Data></Cell>
+    <Cell><Data ss:Type="String">WIDOWMAKER</Data></Cell>
+    <Cell><Data ss:Type="String">위도우메이커</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">DWF-WMS_short</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM(S)</Data></Cell>
+    <Cell><Data ss:Type="String">DWF-WM(S)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">TBR-BH2S</Data></Cell>
+    <Cell><Data ss:Type="String">BOUNTY HUNTER 2 CLAN</Data></Cell>
+    <Cell><Data ss:Type="String">바운티 헌터 2 CLAN</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">TBR-BH2S_SHORT</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2(S)</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-BH2(S)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-5DSS</Data></Cell>
+    <Cell><Data ss:Type="String">SANDY</Data></Cell>
+    <Cell><Data ss:Type="String">샌디</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-5DSS_SHORT</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-5DS(S)</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-5DS(S)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">HBR-AHS</Data></Cell>
+    <Cell><Data ss:Type="String">HAIGHT</Data></Cell>
+    <Cell><Data ss:Type="String">HAIGHT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">HBR-AHS_SHORT</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH(S)</Data></Cell>
+    <Cell><Data ss:Type="String">HBR-AH(S)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHC-NO</Data></Cell>
+    <Cell><Data ss:Type="String">NOBLE</Data></Cell>
+    <Cell><Data ss:Type="String">노블</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHC-NO_SHORT</Data></Cell>
+    <Cell><Data ss:Type="String">SHC-NO</Data></Cell>
+    <Cell><Data ss:Type="String">SHC-NO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_Icons_Badge_Decal</Data></Cell>
+    <Cell><Data ss:Type="String">ICONS BADGE</Data></Cell>
+    <Cell><Data ss:Type="String">ICONS BADGE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">FMT-HP_short</Data></Cell>
+    <Cell><Data ss:Type="String">FMT-H(P)</Data></Cell>
+    <Cell><Data ss:Type="String">FMT-H(P)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">FMT-HP</Data></Cell>
+    <Cell><Data ss:Type="String">FIRE MOTH FMT-H(P)</Data></Cell>
+    <Cell><Data ss:Type="String">파이어 모스 FMT-H(P)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">RVN-MNL</Data></Cell>
+    <Cell><Data ss:Type="String">RAVEN RVN-MN(L)</Data></Cell>
+    <Cell><Data ss:Type="String">레이븐 RVN-MN(L)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">RVN-MNL_short</Data></Cell>
+    <Cell><Data ss:Type="String">RVN-MN(L)</Data></Cell>
+    <Cell><Data ss:Type="String">RVN-MN(L)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">HMN-HL</Data></Cell>
+    <Cell><Data ss:Type="String">HUNTSMAN HMN-H(L)</Data></Cell>
+    <Cell><Data ss:Type="String">헌츠맨 HMN-H(L)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">HMN-HL_short</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H(L)</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H(L)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-2P</Data></Cell>
+    <Cell><Data ss:Type="String">SHADOW HAWK IIC SHD-IIC-2(P)</Data></Cell>
+    <Cell><Data ss:Type="String">쉐도우 호크 IIC SHD-IIC-2(P)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SHD-IIC-2P_short</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-2(P)</Data></Cell>
+    <Cell><Data ss:Type="String">SHD-IIC-2(P)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">STK-4PL</Data></Cell>
+    <Cell><Data ss:Type="String">STALKER STK-4P(L)</Data></Cell>
+    <Cell><Data ss:Type="String">스토커 STK-4P(L)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">STK-4PL_short</Data></Cell>
+    <Cell><Data ss:Type="String">STK-4P(L)</Data></Cell>
+    <Cell><Data ss:Type="String">STK-4P(L)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">TBR-NL</Data></Cell>
+    <Cell><Data ss:Type="String">TIMBER WOLF TBR-N(L)</Data></Cell>
+    <Cell><Data ss:Type="String">팀버 울프 TBR-N(L)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">TBR-NL_short</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N(L)</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N(L)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">BLR-6CL</Data></Cell>
+    <Cell><Data ss:Type="String">BATTLEMASTER BLR-6C(L)</Data></Cell>
+    <Cell><Data ss:Type="String">배틀마스터 BLR-6C(L)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">BLR-6CL_short</Data></Cell>
+    <Cell><Data ss:Type="String">BLR-6C(L)</Data></Cell>
+    <Cell><Data ss:Type="String">BLR-6C(L)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">wolfloyalty2025_name</Data></Cell>
+    <Cell><Data ss:Type="String">2025 Wolf Loyalty</Data></Cell>
+    <Cell><Data ss:Type="String">2025 Wolf Loyalty</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">wolfloyalty2025_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Loyalty item commemorating Clan Wolf's victory and greater defeat on Tukayyid.</Data></Cell>
+    <Cell><Data ss:Type="String">Loyalty item commemorating Clan Wolf's victory and greater defeat on Tukayyid.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_head</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_HMN-H_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">HMN-H 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_head</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_TBR-N_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">TBR-N 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">@heavystalker</Data></Cell>
+    <Cell><Data ss:Type="String">STALKER</Data></Cell>
+    <Cell><Data ss:Type="String">STALKER</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">@emechmodel_heavystalker</Data></Cell>
+    <Cell><Data ss:Type="String">STALKER</Data></Cell>
+    <Cell><Data ss:Type="String">스토커</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">INC-Z0LGD</Data></Cell>
+    <Cell><Data ss:Type="String">ZERO</Data></Cell>
+    <Cell><Data ss:Type="String">제로</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">INC-Z0lgd_SHORT</Data></Cell>
+    <Cell><Data ss:Type="String">INC-Z0(LGD)</Data></Cell>
+    <Cell><Data ss:Type="String">INC-Z0(LGD)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">mdf_LightShield</Data></Cell>
+    <Cell><Data ss:Type="String">Light Shield</Data></Cell>
+    <Cell><Data ss:Type="String">Light Shield</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">mdf_LightShieldDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Light Mech Shield.</Data></Cell>
+    <Cell><Data ss:Type="String">Light Mech Shield.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Wing_Light</Data></Cell>
+    <Cell><Data ss:Type="String">Partial Wing Light</Data></Cell>
+    <Cell><Data ss:Type="String">Partial Wing Light</Data></Cell>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:Index="2"><Data ss:Type="String">Wing_Light_desc</Data></Cell>
+    <Cell><Data ss:Type="String">A partial wing and jumpjet complement that allows the mech to leap forward great distances.</Data></Cell>
+    <Cell><Data ss:Type="String">A partial wing and jumpjet complement that allows the mech to leap forward great distances.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">h_inc_guns_name</Data></Cell>
+    <Cell><Data ss:Type="String">SIDEARMS</Data></Cell>
+    <Cell><Data ss:Type="String">SIDEARMS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Placement_Gold</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 GOLD CHAMPION</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 GOLD CHAMPION</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Placement_Silver</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 SILVER CHAMPION</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 SILVER CHAMPION</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Placement_Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 BRONZE CHAMPION</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 BRONZE CHAMPION</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Placement_Top12</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 TOP 12</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 TOP 12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Placement_Top35</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 TOP 35</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 TOP 35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Placement_Participant</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 PARTICIPANT</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 PARTICIPANT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Staff</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 STAFF</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 STAFF</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_Caster</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 CASTER</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 CASTER</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_CS2025_MVP</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 MVP</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 MVP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_MWOCS2025Gold</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Gold Champ</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Gold Champ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_MWOCS2025Silver</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Silver Champ</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Silver Champ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_MWOCS2025Bronze</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Bronze Champ</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Bronze Champ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_MWOCS2025Top12Qualifier</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Top 12</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Top 12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_MWOCS2025Top35Qualifier</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Top 35</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Top 35</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_MWOCS2025Participant</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Participant</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Participant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_MWOCS2025Staff</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Staff</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Staff</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_MWOCS2025Caster</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Caster</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 Caster</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_MWOCS2025MVP</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 MVP</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 MVP</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_ZeroStand</Data></Cell>
+    <Cell><Data ss:Type="String">The Main Character</Data></Cell>
+    <Cell><Data ss:Type="String">The Main Character</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">MAD-3RCS_short</Data></Cell>
+    <Cell><Data ss:Type="String">MAD-3R(CS)</Data></Cell>
+    <Cell><Data ss:Type="String">MAD-3R(CS)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">MAD-3RCS</Data></Cell>
+    <Cell><Data ss:Type="String">MARAUDER MAD-3R(CS)</Data></Cell>
+    <Cell><Data ss:Type="String">머로더 MAD-3R(CS)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">BSK-6CS_short</Data></Cell>
+    <Cell><Data ss:Type="String">BSK-6(CS)</Data></Cell>
+    <Cell><Data ss:Type="String">BSK-6(CS)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">BSK-6CS</Data></Cell>
+    <Cell><Data ss:Type="String">BULLSHARK BSK-6(CS)</Data></Cell>
+    <Cell><Data ss:Type="String">불샤크 BSK-6(CS)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">zerohanging_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Hanging Item. Provides 5% cbill boost.</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Hanging Item. Provides 5% cbill boost.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Zerohanging_name</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Hanging Item</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Hanging Item</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Zerostanding_name</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Standing Item</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Standing Item</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">Zerostanding_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Standing Item.</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Standing Item.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Col_CS25_Black</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 BLACK</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 BLACK</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Col_CS25_Red</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 RED</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 RED</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Col_CS25_Gold</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 GOLD</Data></Cell>
+    <Cell><Data ss:Type="String">CS 2025 GOLD</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Col_zero_orange</Data></Cell>
+    <Cell><Data ss:Type="String">ZERO ORANGE</Data></Cell>
+    <Cell><Data ss:Type="String">ZERO ORANGE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">@naga</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">@emechmodel_naga</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA</Data></Cell>
+    <Cell><Data ss:Type="String">나가</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-PRIME</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA NGA-PRIME</Data></Cell>
+    <Cell><Data ss:Type="String">나가 NGA-PRIME</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-PRIME_short</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-B</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA NGA-B</Data></Cell>
+    <Cell><Data ss:Type="String">나가 NGA-B</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-II-PRIME</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA NGA-II-PRIME</Data></Cell>
+    <Cell><Data ss:Type="String">나가 NGA-II-PRIME</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-II-A</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA NGA-II-A</Data></Cell>
+    <Cell><Data ss:Type="String">나가 NGA-II-A</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-II-B</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA NGA-II-B</Data></Cell>
+    <Cell><Data ss:Type="String">나가 NGA-II-B</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-II-C</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA NGA-II-C</Data></Cell>
+    <Cell><Data ss:Type="String">나가 NGA-II-C</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-II-H</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA NGA-II-H</Data></Cell>
+    <Cell><Data ss:Type="String">나가 NGA-II-H</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-AM</Data></Cell>
+    <Cell><Data ss:Type="String">AMAROK</Data></Cell>
+    <Cell><Data ss:Type="String">AMAROK</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-B_short</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-II-PRIME_short</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-II-A_short</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-II-B_short</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-II-C_short</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-II-H_short</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-AM_short</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_NagaCollectorStand</Data></Cell>
+    <Cell><Data ss:Type="String">The Distant</Data></Cell>
+    <Cell><Data ss:Type="String">The Distant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_title_NagaHeroStand</Data></Cell>
+    <Cell><Data ss:Type="String">The Nuclear</Data></Cell>
+    <Cell><Data ss:Type="String">The Nuclear</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_Naga_Collector_Badge_Decal</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA COLLECTOR</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA COLLECTOR</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_Naga_Hero_Badge_Decal</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA HERO</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA HERO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ClanArrowIV</Data></Cell>
+    <Cell><Data ss:Type="String">C-ARROW IV</Data></Cell>
+    <Cell><Data ss:Type="String">클랜-ARROW IV</Data></Cell>
+   </Row>
+   <Row ss:Height="24">
+    <Cell ss:Index="2"><Data ss:Type="String">ClanArrowIV_desc</Data></Cell>
+    <Cell><Data ss:Type="String">A devastating artillery missile with extreme range. Has a minimum range.</Data></Cell>
+    <Cell><Data ss:Type="String">압도적인 사거리를 자랑하는 파괴적인 포병 미사일입니다. 최소 사거리 제한이 있습니다.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">nagawarhorn_name</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Warhorn</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Warhorn</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">nagawarhorn_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Warhorn item.</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Warhorn item.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">nagahanging_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Hanging Item. Provides 5% cbill boost.</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Hanging Item. Provides 5% cbill boost.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">nagahanging_name</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Hanging Item</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Hanging Item</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">nagastanding_name</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Standing Item</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Standing Item</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">nagastanding_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Standing Item.</Data></Cell>
+    <Cell><Data ss:Type="String">Naga Standing Item.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_head</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-PRIME_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_head</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-B_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-B 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_head</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-PRIME_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-PRIME 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_head</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-A_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-A 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_head</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-B_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-B 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_head</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-C_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-C 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_head</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-II-H_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-II-H 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_head</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM HEAD</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 머리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_head_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM Head OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 머리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_left_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM LEFT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 왼쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_left_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM Left Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 왼쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_left_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM LEFT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 왼쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_left_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM Left Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 왼쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_centre_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM CENTER TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 중앙 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_centre_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM Center Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 중앙 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_right_torso</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM RIGHT TORSO</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 오른쪽 몸통</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_right_torso_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM Right Torso OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 오른쪽 몸통 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_right_arm</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM RIGHT ARM</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 오른쪽 팔</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_right_arm_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM Right Arm OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 오른쪽 팔 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_left_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM LEFT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 왼쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_left_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM Left Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 왼쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_right_leg</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM RIGHT LEG</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 오른쪽 다리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">omnipod_NGA-AM_right_leg_desc</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM Right Leg OmniPod.</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-AM 오른쪽 다리 옴니포드.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ClanArrowIVAmmo</Data></Cell>
+    <Cell><Data ss:Type="String">C-ARROW IV AMMO</Data></Cell>
+    <Cell><Data ss:Type="String">클랜-Arrow IV 탄약</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ClanArrowIVAmmo_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Artillery missiles for the Arrow IV.</Data></Cell>
+    <Cell><Data ss:Type="String">클랜-Arrow IV 포병 미사일 입니다.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ClanArrowIVAmmoHalf_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Artillery missiles for the Arrow IV.</Data></Cell>
+    <Cell><Data ss:Type="String">클랜-Arrow IV 탄약 (1/2)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ClanArrowIVAmmoHalf</Data></Cell>
+    <Cell><Data ss:Type="String">C-ARROW IV AMMO (1/2)</Data></Cell>
+    <Cell><Data ss:Type="String">클랜-Arrow IV 포병 미사일 (1/2) 입니다.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">@qrk_ammocapacity_arrowiv_add</Data></Cell>
+    <Cell><Data ss:Type="String">ARROW IV AMMO CAPACITY</Data></Cell>
+    <Cell><Data ss:Type="String">Arrow IV 탄약 적재량</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">@qrk_ammocapacity_carrowiv_add</Data></Cell>
+    <Cell><Data ss:Type="String">C-ARROW IV AMMO CAPACITY</Data></Cell>
+    <Cell><Data ss:Type="String">클랜-Arrow IV 탄약 적재량</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ArrowIVAmmoHalf</Data></Cell>
+    <Cell><Data ss:Type="String">ARROW IV AMMO (1/2)</Data></Cell>
+    <Cell><Data ss:Type="String">Arrow IV 탄약 (1/2)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ArrowIVAmmoHalf_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Artillery missiles for the Arrow IV.</Data></Cell>
+    <Cell><Data ss:Type="String">Arrow IV 포병 미사일 (1/2) 입니다.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ArrowIVAmmo_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Artillery missiles for the Arrow IV.</Data></Cell>
+    <Cell><Data ss:Type="String">Arrow IV 탄약</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ArrowIVAmmo</Data></Cell>
+    <Cell><Data ss:Type="String">C-ARROW IV AMMO</Data></Cell>
+    <Cell><Data ss:Type="String">Arrow IV 포병 미사일 입니다.</Data></Cell>
+   </Row>
+   <Row ss:Height="24">
+    <Cell ss:Index="2"><Data ss:Type="String">ArrowIV_desc</Data></Cell>
+    <Cell><Data ss:Type="String">A devastating artillery missile with extreme range. Has a minimum range.</Data></Cell>
+    <Cell><Data ss:Type="String">압도적인 사거리를 자랑하는 파괴적인 포병 미사일입니다. 최소 사거리 제한이 있습니다.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ArrowIV</Data></Cell>
+    <Cell><Data ss:Type="String">ARROW IV</Data></Cell>
+    <Cell><Data ss:Type="String">ARROW IV</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_decal_zero_badge</Data></Cell>
+    <Cell><Data ss:Type="String">ZERO</Data></Cell>
+    <Cell><Data ss:Type="String">ZERO</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_decal_zero_bONUS</Data></Cell>
+    <Cell><Data ss:Type="String">ZERO BONUS</Data></Cell>
+    <Cell><Data ss:Type="String">ZERO BONUS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_loadout_warning_heatscale_group_17</Data></Cell>
+    <Cell><Data ss:Type="String">Rocket Launchers</Data></Cell>
+    <Cell><Data ss:Type="String">Rocket Launchers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_loadout_warning_heatscale_group_18</Data></Cell>
+    <Cell><Data ss:Type="String">Arrow IVs</Data></Cell>
+    <Cell><Data ss:Type="String">Arrow IVs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-PRIMES</Data></Cell>
+    <Cell><Data ss:Type="String">NAGA NGA-PRIME(S)</Data></Cell>
+    <Cell><Data ss:Type="String">나가 NGA-PRIME(S)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NGA-PRIMES_short</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME(S)</Data></Cell>
+    <Cell><Data ss:Type="String">NGA-PRIME(S)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">qrk_tag_range_mult</Data></Cell>
+    <Cell><Data ss:Type="String">TAG Laser Range</Data></Cell>
+    <Cell><Data ss:Type="String">TAG 레이저 사거리</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">NagaHeroComputer</Data></Cell>
+    <Cell><Data ss:Type="String">Modified Missile Loader</Data></Cell>
+    <Cell><Data ss:Type="String">Modified Missile Loader</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_NagaHeroComputer</Data></Cell>
+    <Cell><Data ss:Type="String">Modified Missile Loader</Data></Cell>
+    <Cell><Data ss:Type="String">Modified Missile Loader</Data></Cell>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:Index="2"><Data ss:Type="String">NagaHeroComputer_desc</Data></Cell>
+    <Cell><Data ss:Type="String">An experimental ammo loader that places unique munitions in missile weapons. Also carries a rudimentary Targeting Computer MK I.</Data></Cell>
+    <Cell><Data ss:Type="String">An experimental ammo loader that places unique munitions in missile weapons. Also carries a rudimentary Targeting Computer MK I.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">BKL-M</Data></Cell>
+    <Cell><Data ss:Type="String">BLACK LANNER BKL-M</Data></Cell>
+    <Cell><Data ss:Type="String">블랙 레너 BKL-M</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">BKL-M_short</Data></Cell>
+    <Cell><Data ss:Type="String">BKL-M</Data></Cell>
+    <Cell><Data ss:Type="String">BKL-M</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">GAR-M_short</Data></Cell>
+    <Cell><Data ss:Type="String">GAR-M</Data></Cell>
+    <Cell><Data ss:Type="String">GAR-M</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">GAR-M</Data></Cell>
+    <Cell><Data ss:Type="String">GARGOYLE GAR-M</Data></Cell>
+    <Cell><Data ss:Type="String">가고일 GAR-M</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SMN-P</Data></Cell>
+    <Cell><Data ss:Type="String">SUMMONER SMN-P</Data></Cell>
+    <Cell><Data ss:Type="String">서머너 SMN-P</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">SMN-P_short</Data></Cell>
+    <Cell><Data ss:Type="String">SMN-P</Data></Cell>
+    <Cell><Data ss:Type="String">SMN-P</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">UM-IIC-M</Data></Cell>
+    <Cell><Data ss:Type="String">URBANMECH IIC UM-IIC-M</Data></Cell>
+    <Cell><Data ss:Type="String">어번메크 IIC UM-IIC-M</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">UM-IIC-M_short</Data></Cell>
+    <Cell><Data ss:Type="String">UM-IIC-M</Data></Cell>
+    <Cell><Data ss:Type="String">UM-IIC-M</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Decal_Naga_Arrow_Decal</Data></Cell>
+    <Cell><Data ss:Type="String">ARROW</Data></Cell>
+    <Cell><Data ss:Type="String">ARROW</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
